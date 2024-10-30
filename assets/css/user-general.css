@@ -1,0 +1,169 @@
+.wpo_right_text {
+    text-align: right;
+}
+
+.wpo_required {
+    color:#f04040;
+}
+
+.wpo_no_border, .wpo_no_border th, .wpo_no_border td {
+    border: 0;
+}
+
+.wpo_half {
+    width: 50%;
+    float: left;
+}
+
+.wpo_form_message {
+    float:left;
+    width:100%;
+    margin: 0 0 10px 0;
+    padding: 15px;
+    display: none;
+}
+
+.wpo_form_error_message {
+    border-color: #de0000;
+    display: block;
+}
+
+
+/*.wpo_form_error {
+    border-color: #de0000;
+}
+
+.wpo_form_error_message {
+    color: #de0000;
+}
+
+.wpo_form_error_notice {
+    color: #de0000;
+}*/
+
+.wpo_mobile .wpo_create_member,
+.wpo_mobile .wpo_create_page,
+.wpo_mobile .wpo_create_hub,
+.wpo_mobile .wpo_create_profile,
+.wpo_mobile .wpo_create_category,
+.wpo_mobile .wpo_upload_file,
+.wpo_mobile .wpo_new_message,
+.wpo_mobile .wpo_create_circle {
+    margin: 0 4px 10px 4px;
+}
+
+.wpo_frontend_pagination {
+    display: inline-block;
+    list-style: none;
+    margin: 0;
+    border: 1px solid #ddd;
+}
+
+.wpo_frontend_pagination li {
+    display: inline;
+    padding: 3px 10px;
+    margin: 0;
+    border-right: 1px solid #ddd;
+    float: left;
+}
+
+.wpo_frontend_pagination li.active {
+    background: blue;
+}
+
+.wpo_frontend_pagination li:last-child {
+    border-right: none;
+}
+
+.wpo_frontend_pagination li a {
+    text-decoration: none;
+    box-shadow: none;
+}
+
+.wpo_frontend_pagination li.active a {
+    color: #fff;
+}
+
+.wpo_ajax_loader_bg {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    background-color: rgba( 0, 0, 0, 0.1 );
+}
+
+.wpo_ajax_loader_bg > div {
+    top: 50%;
+    margin-top: -39px;
+}
+
+.wpo_loading {
+    position: relative;
+    min-height: 150px;
+}
+
+.wpo_files_icon {
+    width: 48px;
+    height: 48px;
+    opacity: 0.5;
+}
+
+.wpo_files_list_block  .wpo_search_line, .wpo_files_table_block  .wpo_search_line {
+    width: 200px !important;
+    box-sizing: border-box;
+    height: 32px;
+}
+
+.wpo_files_list_block  .wpo_search_wrapper, .wpo_files_table_block  .wpo_search_wrapper {
+    width: 250px;
+    margin-bottom: 10px;
+}
+
+.wpo_files_list_block .wpo_search_submit, .wpo_files_table_block .wpo_search_submit {
+    float: right;
+}
+
+.wpo_files_table_block .wpo_sort-icon {
+    float: none;
+    display: inline;
+}
+
+.wpo_files_table_block .wpo_sort-icon:after {
+    color: #444;
+    padding: 0;
+    margin: 0;
+    font: 400 20px/24px dashicons;
+    float: none;
+}
+
+.wpo_files_table_block .wpo_sorting.wpo_sorting_desc:hover .wpo_sort-icon:after,
+.wpo_files_table_block .wpo_sorting.wpo_sorting_asc .wpo_sort-icon:after,
+.wpo_files_table_block .wpo_sorting:hover .wpo_sort-icon:after {
+    content: '\f140';
+}
+
+.wpo_files_table_block .wpo_sorting.wpo_sorting_asc:hover .wpo_sort-icon:after,
+.wpo_files_table_block .wpo_sorting.wpo_sorting_desc .wpo_sort-icon:after {
+    content: '\f142';
+}
+
+.wpo_files_table_block  .wpo_search_wrapper, .wpo_files_table_block  .wpo_bulk_action_select {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+@media (max-width: 782px) {
+    .wpo_create_member,
+    .wpo_create_page,
+    .wpo_create_hub,
+    .wpo_create_profile,
+    .wpo_create_category,
+    .wpo_upload_file,
+    .wpo_new_message,
+    .wpo_create_circle {
+        margin: 0 4px 10px 4px;
+    }
+}

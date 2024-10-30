@@ -1,0 +1,166 @@
+/* Nice switcher */
+input[type="checkbox"] {
+    vertical-align: top;
+    margin: 0 3px 0 0;
+    width: 17px;
+    height: 17px;
+}
+
+/* hide origin input */
+input.wpo_toggle_switch[type="checkbox"]:not(checked) {
+    position: absolute;
+    opacity: 0;
+}
+
+input.wpo_toggle_switch[type="checkbox"]:not(checked) + label {
+    position: relative;
+    padding: 0 0 0 50px;
+}
+
+/* first part when turn off */
+input.wpo_toggle_switch[type="checkbox"]:not(checked) + label:before {
+    content: '';
+    position: absolute;
+    top: -1px;
+    left: 0;
+    width: 32px;
+    height: 18px;
+    border-radius: 9px;
+    background: #CDD1DA;
+    box-shadow: inset 0 2px 3px rgba(0,0,0,.2);
+}
+/* Second part turn off. */
+input.wpo_toggle_switch[type="checkbox"]:not(checked) + label:after {
+    content: '';
+    position: absolute;
+    top: 1px;
+    left: 2px;
+    width: 14px;
+    height: 14px;
+    border-radius: 7px;
+    background: #FFF;
+    box-shadow: 0 2px 5px rgba(0,0,0,.3);
+    transition: all .2s; 
+}
+/* First part turn on. */
+input.wpo_toggle_switch[type="checkbox"]:checked + label:before {
+    background: #6ea03f;
+}
+/* Second part turn on. */
+input.wpo_toggle_switch[type="checkbox"]:checked + label:after {
+    left: 16px;
+}
+
+input.wpo_toggle_switch[type="checkbox"]:focus + label:before {
+    box-shadow: 0 0 0 3px rgba(255,255,0,.5);
+}
+
+
+/*Table use divs*/
+.wpo_table, .wpo_thead, .wpo_tbody, .wpo_tfoot {
+    display: block;
+    height: auto;
+    overflow: auto;
+    border: none;
+}
+
+.wpo_tr, .wpo_th {
+    display: block;
+    height: auto;
+    overflow: auto;
+    border: none;
+}
+
+.wpo_td {
+    border: none !important;
+    float: left;
+    display: inline-block;
+    width: auto;
+    box-sizing: border-box;
+}
+
+/*custom styles*/
+.wpo_features_table, .wpo_features_table .wpo_thead .wpo_th {
+    /*width: 550px;*/
+}
+
+.wpo_features_table {
+    float: left;
+    margin: 10px;
+    background-color: #ececec;
+    border-radius: 5px;
+    width: calc( 50% - 20px );
+}
+
+.wpo_thead .wpo_tr {
+    line-height: 40px;
+}
+
+.wpo_tbody .wpo_tr {
+    border-bottom: 1px #f9f9f9 solid;
+}
+
+.wpo_td {
+    padding: 15px 10px;
+}
+
+.wpo_features_table .wpo_thead {
+    text-align: center;
+    color: #fff;
+}
+
+.wpo_features_status {
+    padding: 25px 10px;
+    float: right;
+    width: 140px;
+}
+
+.wpo_features_status > * {
+    float: right;    
+}
+
+.wpo_features_status > label {
+    cursor: pointer;
+    text-transform: uppercase;
+    padding-right: 56px;
+    font-size: 10px;
+}
+
+.wpo_active_status {
+    color: #6ea03f;
+}
+
+.wpo_center_block {
+    width: 100% !important;
+    text-align: center;
+}
+
+.wpo_save_features .wpo_button {
+    float: none;
+    margin: 0 auto;
+}
+
+.wpo_tbody .wpo_td:first-child {
+    width: calc( 100% - 140px );
+}
+
+.wpo_features_table .wpo_main_title {
+    font-weight: bold;
+    text-shadow: 1px 1px 2px black;
+}
+
+.wpo_hide {
+    display: none;
+}
+
+.wpo_features_description {
+    font-size: 11px;
+    text-align: justify;
+}
+
+
+@media (max-width: 782px) {
+    .wpo_features_table {
+        width: calc( 100% - 20px );
+    }
+}

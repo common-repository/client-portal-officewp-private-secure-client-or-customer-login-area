@@ -1,0 +1,230 @@
+.wpo_assign_link {
+    text-decoration: none;
+}
+
+.wpo_assign_link.wpo_disabled {
+    opacity: 0.3;
+    color:#aaa !important;
+}
+
+.wpo_assign_link_count {
+    color:#777;
+    font-weight: bold;
+}
+
+.wpo_assign_filters_line {
+    float:left;
+    width: 100%;
+    margin: 0 0 5px 0;
+    padding: 0;
+    display: inline-block;
+    text-align: left;
+}
+
+.wpo_assign_filters_line_link {
+    text-decoration: none;
+}
+
+.wpo_assign_filters_line_link.wpo_current {
+    font-weight: bold;
+    color: #000;
+    cursor: default;
+}
+
+
+.wpo_assign_form {
+    float: left;
+    width:100%;
+    margin: 20px 0 0 0;
+    padding: 0;
+}
+
+.wpo_assign_form_wrapper {
+    float: left;
+    width:100%;
+    margin: 0;
+    padding: 0;
+}
+
+.wpo_assign_items {
+    float: left;
+    width:100%;
+    margin: 0;
+    padding: 0;
+}
+
+.wpo_assign_items .half {
+    float: left;
+    width:50%;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wpo_assign_items ul {
+    float: left;
+    width:50%;
+    margin: 0;
+    padding: 0 10px 0 0;
+    box-sizing: border-box;
+    display: block;
+}
+
+@media (max-width: 782px) {
+    .wpo_assign_items ul {
+        width:100%;
+    }
+}
+
+@media (max-width: 600px) {
+    .wpo_assign_items .half {
+        width:100%;
+    }
+}
+
+.wpo_assign_items ul li {
+    float: left;
+    width:100%;
+    margin: 0 0 10px 0;
+    padding: 0;
+    box-sizing: border-box;
+    display: block;
+}
+
+.wpo_assign_form_values {
+    float:left;
+    display: inline-block;
+    margin: 0 10px 10px 0;
+    padding: 0;
+}
+
+.wpo_assign_bulk_actions {
+    float: left;
+    width:70%;
+    margin: 0 0 10px 0;
+    padding: 0;
+}
+
+.wpo_assign_bulk_actions label {
+    float: left;
+    margin: 0 10px 0 0;
+    padding: 0;
+}
+
+.wpo_assign_search {
+    width:30%;
+    float: right;
+    margin: 0 0 10px 0;
+    padding: 0;
+    display: none;
+}
+
+.wpo_assign_search input {
+    width: 100%;
+    float:left;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+.wpo_assign_pagination_wrapper {
+    float: right;
+    clear: both;
+    margin: 0 0 10px 0;
+    padding: 0;
+    display: none;
+}
+
+.wpo_assign_pagination_num {
+    margin-right: 7px;
+    float:left;
+    padding: 0;
+    line-height: 28px;
+    width: 80px;
+    text-align: right;
+}
+
+.wpo_assign_pagination {
+    float:right;
+    margin: 0;
+    padding: 0;
+    width: calc( 100% - 87px );
+    line-height: 28px;
+}
+
+.wpo_assign_pagination .wpo_assign_first-page,
+.wpo_assign_pagination .wpo_assign_prev-page,
+.wpo_assign_pagination .wpo_assign_next-page,
+.wpo_assign_pagination .wpo_assign_last-page {
+    width: 28px;
+    height: 28px;
+    border: 1px solid #ccc;
+    padding: 3px 5px 7px;
+    background: #e5e5e5;
+    font-size: 16px;
+    line-height: 1;
+    font-weight: 400;
+    text-align: center;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    cursor:pointer;
+    display: block;
+    float:left;
+    margin: 0 2px;
+    text-decoration: none;
+}
+
+.wpo_assign_pagination .wpo_assign_first-page.disabled,
+.wpo_assign_pagination .wpo_assign_prev-page.disabled,
+.wpo_assign_pagination .wpo_assign_next-page.disabled,
+.wpo_assign_pagination .wpo_assign_last-page.disabled {
+    opacity: 0.5;
+    cursor: default;
+}
+
+.wpo_assign_pagination_pages {
+    float:left;
+    margin: 0;
+    padding: 0 2px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+.wpo_assign_pagination_current_page {
+    margin: 0;
+    height: 28px;
+}
+
+.wpo_assign_pagination_wrapper.one-page .wpo_assign_pagination,
+.wpo_assign_pagination_wrapper.no-pages .wpo_assign_pagination {
+    display: none;
+}
+
+.wpo_assign_empty {
+    width:100%;
+    float:left;
+    margin: 10px 0 0 0;
+    padding:0;
+    text-align: center;
+}
+.wpo_assign_items_ajax_loader_wrapper {
+    display: none;
+}
+
+
+@media (max-width: 782px) {
+    .wpo_assign_search {
+        float:left;
+        clear: both;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .wpo_assign_bulk_actions {
+        float:right;
+        clear: both;
+        width: 100%;
+    }
+}

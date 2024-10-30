@@ -1,0 +1,23 @@
+#wpo_admin_header,
+.wpo_pulllayer_topnav {
+    background-color: #d9d9d9 !important;
+}
+
+
+#wpo_admin_header.wpo_admin_header_pro {
+    background-color: #B5D2FF !important;
+}
+
+.wpo_help_box_wrap {
+    background-color: #f3f3f3 !important;
+}
+
+.wpo_right_button.wpo_get_pro_button {
+    width: 100px;
+}
+
+.wpo_get_pro_button:before {
+    content: "Get Pro";
+    font-size: 20px !important;
+    line-height: 39px !important;
+}

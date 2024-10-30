@@ -1,0 +1,571 @@
+#wpo_admin_page_title {
+    float:left;
+}
+
+#wpwrap {
+    background: #ffffff url( '../images/backgound_grass.png' ) bottom repeat-x !important;
+}
+
+#wpcontent {
+    padding-left:0;
+}
+
+.wpo_admin_content {
+    margin-left: 5px;
+}
+
+ul#adminmenu a.wp-has-current-submenu:after,
+ul#adminmenu>li.current>a.current:after {
+    border-right-color: #fff !important;
+}
+
+.wpo_features_table .wpo_hr {
+    height: 2px;
+}
+
+
+.wpo_settings_item {
+    width: 300px;
+    margin: 30px 0 0 20px;
+    float: left;
+    opacity: 0.5;
+    min-height: 100px;
+}
+
+.wpo_settings_item:hover {
+    opacity: 1;
+}
+
+.wpo_settings_item ul {
+    margin: 0 0 0 70px;
+}
+.wpo_settings_item ul li h2{
+    margin: 0 0 0 0 !important;
+}
+
+
+#wpo_settings_item_general {
+    background: transparent url( '../images/settings_general.png' ) left top no-repeat !important;
+}
+
+#wpo_settings_item_secure {
+    background: transparent url( '../images/settings_secure.png' ) left top no-repeat !important;
+}
+
+#wpo_settings_item_customization {
+    background: transparent url( '../images/settings_customization.png' ) left top no-repeat !important;
+}
+
+#wpo_settings_item_members {
+    background: transparent url( '../images/settings_members.png' ) left top no-repeat !important;
+}
+
+#wpo_settings_item_roles {
+    background: transparent url( '../images/settings_roles.png' ) left top no-repeat !important;
+}
+
+#wpo_settings_item_templates {
+    background: transparent url( '../images/settings_templates.png' ) left top no-repeat !important;
+}
+
+#wpo_settings_item_content {
+    background: transparent url( '../images/settings_content.png' ) left top no-repeat !important;
+}
+
+.wpo_settings_caps_wrapper h3 {
+    text-transform: uppercase;
+}
+
+.wpo_settings_caps_block {
+    float: left;
+    padding: 0 10px 20px 0;
+    box-sizing: border-box;
+    width: 33%;
+}
+
+.tabs_content_wrapper .wpo_settings_caps_block {
+    width: 50%;
+}
+
+.wpo_settings_caps_block h4 {
+    margin: 10px 0 10px 0;
+    font-weight: bold;
+}
+
+.wpo_settings_caps_block ul {
+    display: inline;
+
+}
+
+
+.wpo_remove_role {
+    cursor:pointer;
+    float:left;
+}
+
+.wpo_remove:before {
+    content: '\f335';
+    color: #FF3B00;
+    opacity:0.5;
+    font-family: dashicons;
+    font-size: 18px;
+    line-height: 18px;
+    margin-left: -4px;
+
+}
+
+.wpo_remove:hover:before {
+    opacity:1;
+}
+
+.dashicon_themes, .dashicon_plugins {
+    margin-right: 8px;
+}
+
+.dashicon_themes:before {
+    content: "\f100";
+}
+
+.dashicon_plugins:before {
+    content: "\f106";
+}
+
+
+
+.wpo_delete_page {
+    cursor:pointer;
+}
+
+.wpo_delete_page:before {
+    content: '\f335';
+    color: #FF3B00;
+    opacity:0.5;
+    font-family: dashicons;
+    font-size: 18px;
+    line-height: 9px;
+    margin-left: 0px;
+
+}
+
+.wpo_delete_page:hover:before {
+    opacity:1;
+}
+
+
+#wpo_settings_form .form-table {
+    margin: 0 !important;
+}
+
+
+.wpo_settings_roles_list {
+    margin: 0;
+    float:left;
+}
+
+.wpo_settings_roles_list li {
+    float:left;
+    width: 100%;
+}
+
+.wpo_settings_pages_create_page {
+    display: block;
+    float: left;
+    margin: 4px 0 0 5px;
+    opacity: 0.5;
+}
+
+.wpo_settings_pages_create_page:hover {
+    opacity: 1;
+    cursor: pointer;
+}
+
+.wpo_setting_pages_inputs {
+    width: 350px !important;
+}
+
+#wpbody-content {
+    padding-bottom: 120px;
+}
+
+
+.tabs_wrapper {
+    margin: 0;
+    float:left;
+    width:30%;
+    position:relative;
+    z-index: 2;
+}
+
+
+.tabs_content_wrapper {
+    position: absolute;
+    right: 0;
+    top:0;
+    width: calc( 70% + 1px );
+    border: 1px solid #c1c1c1;
+    padding: 0 0 0 20px;
+    box-sizing: border-box;
+    z-index: 1;
+}
+
+.tabs_wrapper ul {
+    float:left;
+    width:100%;
+    margin: 0;
+}
+
+
+.tabs_wrapper ul li {
+    float:left;
+    width:100%;
+    cursor: pointer;
+    padding: 10px 15px 10px 5px;
+    margin: 0 0 3px 0;
+    box-sizing: border-box;
+    display: block;
+    -webkit-border-radius: 3px 0 0 3px;
+    -moz-border-radius: 3px 0 0 3px;
+    border-radius: 3px 0 0 3px;
+    border: none;
+    background: transparent;
+}
+
+.tabs_wrapper ul li.wpo_current {
+    font-weight: bold;
+    border: 1px solid #c1c1c1;
+    border-right: none;
+    background: #fff;
+}
+
+.tabs_wrapper ul li.wpo_inactive {
+    cursor: default;
+    opacity: 0.6;
+}
+
+
+.wpo_page_url {
+    font-family: arial, sans-serif;
+    font-size: 11px;
+    color: #ccc;
+
+}
+
+
+.wpo_form_error {
+    border-color: #de0000 !important;
+}
+
+.wpo_form_error_message {
+    color: #de0000 !important;
+}
+
+.wpo_form_error_notice {
+    color: #de0000 !important;
+}
+
+.wpo_bold {
+    font-weight: bold;
+}
+
+
+@media (max-width: 782px) {
+    #wpcontent {
+        padding-left:0 !important;
+    }
+}
+
+.wpo_admin_form_inner .wp-editor-tools:after {
+    content: "" !important;
+    display: none;
+}
+
+.wpo_admin_wrapper {
+    float:left;
+    width:100%;
+    margin:0;
+    padding:0;
+    position: relative;
+}
+
+.wpo_settings_caps_wrapper,
+.wpo_admin_settings {
+    width:100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.wpo_help_box_wrap {
+    margin: -10px 0 10px;
+}
+
+.wpo_pulllayer .wpo_help_box_wrap {
+    margin: 0;
+}
+
+@media (max-width: 1000px) {
+    .wpo_settings_caps_block {
+        padding: 0;
+        width: 100%;
+    }
+}
+
+
+.wpo_cap_wrapper {
+    position: relative;
+}
+
+.wpo_cap_wrapper .wpo_switch_button {
+    clear: both;
+    position: absolute;
+    float: none;
+    left:0;
+    top:23px;
+}
+
+.wpo_cap_wrapper .wpo_selector_title {
+    clear: both;
+    text-align: left;
+    margin: 0 0 20px 0;
+    display: inline-block;
+    width: 100%;
+    float:left;
+    /*font-weight: bold;*/
+}
+
+.wpo_cap_wrapper.can_manage_cap .wpo_switch_button {
+    clear: both;
+    position: absolute;
+    float: none;
+    right:0;
+    top:0;
+    left: auto;
+}
+
+.wpo_cap_wrapper.can_manage_cap .wpo_selector_title {
+    clear: both;
+    text-align: left;
+    margin: 0;
+    display: inline-block;
+    width: 100%;
+    /*font-weight: bold;*/
+}
+
+@media (max-width: 782px) {
+    .manage_capabilities_wrapper .wpo_switch_button {
+        display: block !important;
+        position: absolute !important;
+        top:20px;
+        float:left !important;
+    }
+
+    .manage_capabilities_wrapper .tabs_wrapper .wpo_switch_button {
+        display: block !important;
+        position: static !important;
+        float:left !important;
+    }
+
+
+    .manage_capabilities_wrapper .tabs_content_wrapper ul li{
+        margin-bottom: 50px !important;
+    }
+
+    .manage_capabilities_wrapper .wpo_switch_button .wpo_selector_title {
+        position: absolute !important;
+        top:0;
+        left:0;
+        float:none !important;
+    }
+
+    .manage_capabilities_wrapper .wpo_switch_button .wpo_switch_button_value {
+        clear: both;
+        border-bottom: 1px solid #aaaaaa !important;
+        border-right: none !important;
+    }
+
+    .manage_capabilities_wrapper .wpo_switch_button  .wpo_switch_button_value:last-child {
+        border-right: none !important;
+        border-bottom: none !important;
+    }
+}
+
+.wpo_pulllayer_content .wpo_email_notifications {
+    width: 100%;
+}
+
+.wpo_pulllayer_content .wpo_email_notifications th {
+    width: 20%;
+}
+
+.wpo_pulllayer_content .wpo_email_notifications td {
+    width: 80%;
+}
+
+.wpo_pulllayer_content .wpo_email_notifications td input[name="subject"] {
+    width: 100%;
+}
+
+.wpo_remove_sending_rule {
+    cursor: pointer;
+    color:#a00;
+}
+
+.wpo_sending_rule_td_close {
+    width: 10% !important;
+}
+
+.wpo_sending_rule_td_action {
+    width: 30% !important;
+}
+
+.wpo_sending_rule_td_doer {
+    width: 30% !important;
+}
+
+.wpo_sending_rule_td_recipient {
+    width: 30% !important;
+}
+
+.wpo_line_active:before {
+    color:#0a0;
+    content:"\f147";
+    font-family: dashicons;
+    font-size: 20px;
+    line-height: 30px;
+}
+.wpo_line_inactive:before {
+    color:#ddd;
+    content:"\f153";
+    font-family: dashicons;
+    font-size: 20px;line-height: 30px;
+}
+
+.wpo_line_active,
+.wpo_line_inactive {
+    width: 30px;
+    float: left;
+}
+
+#wpo_custom_style_settings {
+    width:100%;
+}
+
+#wpo_custom_style_settings textarea[name="custom_css"] {
+    width:100%;
+    height: 350px;
+}
+
+#wpo_custom_style_settings .wpo_admin_form_inner > table tr > th {
+    width: 32%;
+}
+
+.wpo_float_right {
+    float: right !important;
+}
+
+.wpo_admin_form_th {
+    line-height: 28px;
+}
+
+.wpo_admin_form_field_label {
+    float: left;
+}
+
+.wpo_admin_form_required_field {
+    color: red;
+}
+
+.wpo_admin_form_helptip_container {
+    float: right;
+    margin: 7px 10px 0 0;
+}
+
+.wpo_template_line {
+    margin-left:7px;
+    width:calc( 100% - 55px );
+    float:left;
+}
+
+.wpo_template_in_plugin {
+    opacity: 0.7;
+}
+
+.wpo_template_in_plugin .dashicon_plugins {
+    color: #aaa;
+}
+
+.wpo_template_line .dashicon_plugins,
+.wpo_template_line .dashicon_themes {
+    cursor: help;
+}
+
+.wpo_template_in_plugin .wpo_template_description {
+    color: #777;
+}
+
+.wpo_template_title {
+    font-weight: bold;
+}
+
+.wpo_template_description {
+    color: #888;
+}
+
+
+
+
+@media (max-width: 782px) {
+    #wpo_custom_style_settings .wpo_admin_form_inner > table tr > th {
+        width: 100%;
+    }
+}
+
+#wpo_custom_redirect_form {
+    width:100%;
+}
+
+.wpo_contact_info input[type="text"],
+.wpo_contact_info input[type="email"],
+.wpo_contact_info textarea {
+    width:100% !important;
+    clear:both;
+    float:left;
+}
+
+
+
+/*Email Notification Styles*/
+.wpo_sending_rules_table {
+    float: left;
+    width:100%;
+    clear: both;
+    table-layout: fixed;
+    border: 1px solid #e1e1e1;
+    border-collapse: collapse;
+    margin-bottom: 10px;
+}
+
+.wpo_sending_rules_table thead tr {
+    background: #f5f5f5;
+}
+
+.wpo_sending_rules_table thead tr th {
+    border-bottom: 1px solid #e1e1e1;
+    padding: 10px;
+}
+
+.wpo_sending_rules_table tbody tr:nth-of-type(2n) {
+    background: #f9f9f9;
+}
+
+.wpo_sending_rules_table tbody tr td {
+    padding: 10px;
+}
+
+.wpo_sending_rules_table tbody tr td .wpo_sednig_rule_row_actions {
+    visibility: hidden;
+}
+
+.wpo_sending_rules_table tbody tr:hover td .wpo_sednig_rule_row_actions {
+    visibility: visible;
+}
+

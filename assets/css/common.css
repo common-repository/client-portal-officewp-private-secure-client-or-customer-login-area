@@ -1,0 +1,86 @@
+#adminmenu #toplevel_page_wp-office .wp-menu-image img,
+#adminmenu #toplevel_page_wp-office-act .wp-menu-image img {
+    padding: 3px 0 0 5px !important;
+}
+
+.wpo_hr {
+    width: 100%;
+    height: 1px;
+    margin: 10px 0;
+    float: left;
+    clear: both;
+}
+
+.wpo_hr .wpo_hr1,
+.wpo_hr .wpo_hr2,
+.wpo_hr .wpo_hr3,
+.wpo_hr .wpo_hr4 {
+    width: 25%;
+    height: 2px;
+    float: left;
+}
+
+.wpo_hr .wpo_hr1 {
+    background: #e15226;
+    background: -moz-linear-gradient(left, #e15226 0%, #e15226 80%, #e2ab36 100%);
+    background: -webkit-linear-gradient(left, #e15226 0%, #e15226 80%, #e2ab36 100%);
+    background: -o-linear-gradient(left, #e15226 0%, #e15226 80%, #e2ab36 100%);
+}
+
+.wpo_hr .wpo_hr2 {
+    background: #e2ab36;
+    background: -moz-linear-gradient(left, #e2ab36 0%, #e2ab36 80%, #6ea03f 100%);
+    background: -webkit-linear-gradient(left, #e2ab36 0%, #e2ab36 80%, #6ea03f 100%);
+    background: -o-linear-gradient(left, #e2ab36 0%, #e2ab36 80%, #6ea03f 100%);
+}
+
+.wpo_hr .wpo_hr3 {
+    background: #6ea03f;
+    background: -moz-linear-gradient(left, #6ea03f 0%, #6ea03f 80%, #6986c2 100%);
+    background: -webkit-linear-gradient(left, #6ea03f 0%, #6ea03f 80%, #6986c2 100%);
+    background: -o-linear-gradient(left, #6ea03f 0%, #6ea03f 80%, #6986c2 100%);
+}
+
+.wpo_hr .wpo_hr4 {
+    background: #6986c2;
+}
+
+.wrap h1 #wpo_posttype_back_button .dashicons::before {
+    display: block;
+    margin-top: 8px;
+}
+.wrap h1 #wpo_posttype_back_button {
+    margin: 0 10px 0 10px;
+    display: none;
+}
+
+.wpo_admin_wrapper button {
+    margin: 0;
+}
+
+.wpo_helptip {
+    display: block;
+    width: 16px;
+    height: 16px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    cursor: help;
+    font-weight: normal !important;
+}
+
+.wpo_helptip:hover {
+    opacity: 0.85;
+}
+
+.wpo_helptip:before {
+    /*content:"\f348";*/
+    content:"";
+    font-family: dashicons;
+    display: block;
+    float:left;
+    line-height: 16px;
+    font-size: 18px;
+    /*color: #999;*/
+    color: #cfcfcf;
+}

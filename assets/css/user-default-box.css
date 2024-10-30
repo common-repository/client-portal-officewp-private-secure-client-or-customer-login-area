@@ -1,0 +1,47 @@
+.wpo_search_box .wpo_search_submit {
+    float:right;
+    width:45px;
+    margin: 0;
+    border-radius: 0 2px 2px 0;
+    height: 100%;
+    padding: 0;
+    position: relative;
+}
+
+.wpo_search_box .wpo_search_submit .dashicons {
+    width: 100% !important;
+    line-height: 1 !important;
+    float:left;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+
+.wpo_bulk_actions {
+    display: block;
+    float:left;
+    position: relative;
+    width: 100%;
+    height: 24px;
+    z-index: 10;
+    padding: 0 0 0 5px !important;
+}
+
+.wpo_bulk_actions:after {
+    position:absolute;
+    top:0;
+    bottom:0;
+    right:6px;
+    content:'\25bc' !important;
+    color:rgba( 0, 0, 0, 0.6 );
+    font-size: 10px;
+    line-height: 20px;
+    display: block !important;
+    float: none !important;
+    margin: 0 !important;
+    background: transparent !important;
+    border-left: none !important;
+    box-shadow: none !important;
+    width: auto !important;
+}

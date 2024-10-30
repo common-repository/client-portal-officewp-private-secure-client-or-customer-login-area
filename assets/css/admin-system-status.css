@@ -1,0 +1,54 @@
+.wpo_system_status_table {
+    float: left;
+    margin-top: 15px !important;
+    border: 1px solid #e5e5e5;
+    width: calc( 100% - 10px );
+    margin: 5px;
+    border-spacing: 0;
+    clear: both;
+    line-height: 1.4em;
+}
+
+.wpo_system_status_table * {
+    word-wrap: break-word;
+}
+
+.wpo_system_status_table thead th {
+    line-height: 1.4em;
+    font-weight: 400;
+    text-align: left;
+    font-size: 14px;
+    padding: 8px 10px;
+}
+
+.wpo_system_status_table td {
+    font-size: 13px;
+    line-height: 1.5em;
+    padding: 8px 10px;
+    vertical-align: top;
+}
+
+.wpo_system_status_table tbody tr td:first-child {
+    width: 25%;
+}
+
+.wpo_system_status_table tbody tr:nth-child(even) {
+    background-color: #f0ffea;
+}
+
+.wpo_system_status_table .wpo_main_title {
+    background-color: #d0ffb5;
+    font-weight: bold;
+}
+
+.wpo_system_status_table .wpo_title_hr {
+    padding: 0;
+}
+
+.wpo_well {
+    color: lime;
+}
+
+.wpo_ill {
+    color: red;
+}

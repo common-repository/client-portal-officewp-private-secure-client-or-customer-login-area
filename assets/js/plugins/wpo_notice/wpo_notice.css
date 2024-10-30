@@ -1,0 +1,36 @@
+.wpo_notice_message {
+    position: fixed;
+    padding: 15px;
+    padding-bottom: 0;
+    color: #fff;
+    text-align: center;
+    width: 250px;
+    background-color: rgba( 0,0,0, 0.7);
+    z-index: 99999999;
+    right: 30px;
+    bottom: -200px;
+    display: none;
+}
+
+.wpo_notice_message .wpo_notice_message_text {
+    padding: 5px;
+    display: block;
+}
+.wpo_notice_message .wpo_notice_message_progress {
+    display: block;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    margin-bottom: 5px;
+}
+
+.wpo_notice_message.wpo_notice_message_update .wpo_notice_message_progress {
+    border-bottom-color: rgba( 110, 255, 0, 0.7);
+}
+
+.wpo_notice_message.wpo_notice_message_error .wpo_notice_message_progress {
+    border-bottom-color: rgba( 255, 0, 0, 0.7);
+}
+
+.wpo_notice_message.wpo_notice_message_warning .wpo_notice_message_progress {
+    border-bottom-color: rgba( 255, 204, 0, 0.7);
+}

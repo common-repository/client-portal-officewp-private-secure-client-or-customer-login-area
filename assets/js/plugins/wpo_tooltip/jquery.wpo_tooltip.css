@@ -1,0 +1,13 @@
+#wpo_tooltip {
+    z-index: 9999;
+    position: fixed;
+    display: none;
+    top:0;
+    left:0;
+    background-color: rgba(0,0,0,0.8);
+    padding: 5px 10px 5px 10px;
+    color: white;
+    border-radius: 5px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}

@@ -1,0 +1,3545 @@
+# LANGUAGE (LOCALE) translation for WordPress.
+# Copyright (C) YEAR WordPress contributors.
+# This file is distributed under the same license as the WordPress package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Office\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-17 20:07+0200\n"
+"PO-Revision-Date: 2017-02-17 20:07+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: d:\\wp-office\n"
+
+#: d:\wp-office/includes/class-frontend-init.php:25
+#: d:\wp-office/includes/class-frontend-init.php:33
+#: d:\wp-office/includes/class-init.php:142
+#: d:\wp-office/includes/class-init.php:150
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: d:\wp-office/includes/class-frontend-init.php:431
+#: d:\wp-office/includes/class-frontend-init.php:435
+#: d:\wp-office/includes/class-frontend-init.php:444
+msgid "Error"
+msgstr ""
+
+#: d:\wp-office/includes/class-frontend-init.php:431
+msgid "Username is required."
+msgstr ""
+
+#: d:\wp-office/includes/class-frontend-init.php:435
+msgid "Password is required."
+msgstr ""
+
+#: d:\wp-office/includes/class-frontend-init.php:444
+msgid "A user could not be found with this email address."
+msgstr ""
+
+#: d:\wp-office/includes/class-frontend-init.php:541
+#: d:\wp-office/includes/class-functions.php:4460
+#: d:\wp-office/includes/class-functions.php:4492
+msgid "Nothing found"
+msgstr ""
+
+#: d:\wp-office/includes/class-frontend-init.php:542
+msgid "Categories"
+msgstr ""
+
+#: d:\wp-office/includes/class-frontend-init.php:543
+msgid "Members"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:3522
+msgid "Registration"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:3523
+msgid "Update Member Profile"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:3528
+#, php-format
+msgid "Create %s"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:3529
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:3530
+#, php-format
+msgid "Approve %s"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:3534
+msgid "Reset Password"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:3535
+msgid "Update Office Page"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:3555
+#: d:\wp-office/includes/class-functions.php:3562
+#: d:\wp-office/includes/class-functions.php:3570
+msgid "Doer"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:3556
+#: d:\wp-office/includes/class-functions.php:3564
+#: d:\wp-office/includes/class-functions.php:3572
+msgid "All Selected Roles Users"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:3557
+#: d:\wp-office/includes/class-functions.php:3565
+#: d:\wp-office/includes/class-functions.php:3573
+msgid "Assigned Selected Roles Users"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:3563
+msgid "Office Page Author"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:3571
+msgid "Member"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:4001
+msgid "HUB"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:4344
+#: d:\wp-office/includes/class-functions.php:4455
+#: d:\wp-office/includes/class-functions.php:4456
+#: d:\wp-office/includes/class-functions.php:4457
+#: d:\wp-office/includes/class-functions.php:4458
+#: d:\wp-office/includes/class-functions.php:4459
+msgid "Office Page"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:4349
+msgid "Login"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:4354
+msgid "Logout"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:4359
+msgid "Profile"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:4370
+#, php-format
+msgid "%s Registration"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:4454
+msgid "Office Pages"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:4456
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:4457
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:4458
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:4459
+#: d:\wp-office/includes/class-functions.php:4491
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:4461
+#: d:\wp-office/includes/class-functions.php:4493
+msgid "Nothing found in Archive"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:4483
+msgid "Office HUBs"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:4484
+#: d:\wp-office/includes/class-functions.php:4485
+#: d:\wp-office/includes/class-functions.php:4486
+#: d:\wp-office/includes/class-functions.php:4487
+#: d:\wp-office/includes/class-functions.php:4488
+#: d:\wp-office/includes/class-functions.php:4489
+#: d:\wp-office/includes/class-functions.php:4490
+#: d:\wp-office/includes/class-functions.php:4491
+msgid "Office HUB"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:4485
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:4486
+#, php-format
+msgid "Edit %s Item"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:4487
+#, php-format
+msgid "View %s Item"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:4488
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:4489
+#, php-format
+msgid "Insert into %s"
+msgstr ""
+
+#: d:\wp-office/includes/class-functions.php:4490
+#, php-format
+msgid "Uploaded to this %s"
+msgstr ""
+
+#: d:\wp-office/includes/class-license.php:188
+#, php-format
+msgid "%s License Activation"
+msgstr ""
+
+#: d:\wp-office/includes/class-license.php:198
+msgid "License is Active"
+msgstr ""
+
+#: d:\wp-office/includes/class-license.php:209
+msgid "License Key"
+msgstr ""
+
+#: d:\wp-office/includes/class-license.php:213
+msgid "Enter your license key"
+msgstr ""
+
+#: d:\wp-office/includes/class-license.php:218
+msgid "Activate License"
+msgstr ""
+
+#: d:\wp-office/includes/class-license.php:514
+msgid "An unexpected error occurred. Something may be wrong with "
+msgstr ""
+
+#: d:\wp-office/includes/class-license.php:515
+msgid "https://wordpress.org/support/"
+msgstr ""
+
+#: d:\wp-office/includes/class-license_old.php:97
+msgid " Activation"
+msgstr ""
+
+#: d:\wp-office/includes/class-license_old.php:98
+msgid " API Key Activation"
+msgstr ""
+
+#: d:\wp-office/includes/class-license_old.php:99
+#: d:\wp-office/includes/class-license_old.php:326
+msgid "API Key Activation"
+msgstr ""
+
+#: d:\wp-office/includes/class-license_old.php:100
+msgid "API Key Deactivation"
+msgstr ""
+
+#: d:\wp-office/includes/class-license_old.php:260
+#, php-format
+msgid "The <strong>%s</strong> API Key has not been activated, so the %s is inactive! %sClick here%s to activate <strong>%s</strong>."
+msgstr ""
+
+#: d:\wp-office/includes/class-license_old.php:277
+#, php-format
+msgid "<b>Warning!</b> You're blocking external requests which means you won't be able to get %s updates. Please add %s to %s."
+msgstr ""
+
+#: d:\wp-office/includes/class-license_old.php:309
+#: d:\wp-office/includes/class-license_old.php:313
+msgid "Save Changes"
+msgstr ""
+
+#: d:\wp-office/includes/class-license_old.php:330
+msgid "API Key Status"
+msgstr ""
+
+#: d:\wp-office/includes/class-license_old.php:334
+msgid "API Key"
+msgstr ""
+
+#: d:\wp-office/includes/class-license_old.php:338
+msgid "API Email"
+msgstr ""
+
+#: d:\wp-office/includes/class-license_old.php:344
+msgid "API Deactivation"
+msgstr ""
+
+#: d:\wp-office/includes/class-license_old.php:348
+msgid "Deactivate API Key"
+msgstr ""
+
+#: d:\wp-office/includes/class-license_old.php:417
+#, php-format
+msgid "%s activated. "
+msgstr ""
+
+#: d:\wp-office/includes/class-license_old.php:423
+msgid "Connection failed to the License Key API server. Try again later."
+msgstr ""
+
+#: d:\wp-office/includes/class-license_old.php:521
+msgid "The API Key could not be deactivated. Use the API Key Deactivation tab to manually deactivate the API Key before activating a new API Key."
+msgstr ""
+
+#: d:\wp-office/includes/class-license_old.php:556
+msgid "API Key deactivated. "
+msgstr ""
+
+#: d:\wp-office/includes/class-license_old.php:629
+msgid "Deactivates an API Key so it can be used on another blog."
+msgstr ""
+
+#: d:\wp-office/includes/class-license_old.php:1004
+#, php-format
+msgid "The license key for %s has expired. You can reactivate or purchase a license key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: d:\wp-office/includes/class-license_old.php:1011
+#, php-format
+msgid "The subscription for %s is on-hold. You can reactivate the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: d:\wp-office/includes/class-license_old.php:1018
+#, php-format
+msgid "The subscription for %s has been cancelled. You can renew the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new license key will be emailed to you after your order has been completed."
+msgstr ""
+
+#: d:\wp-office/includes/class-license_old.php:1025
+#, php-format
+msgid "The subscription for %s has expired. You can reactivate the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: d:\wp-office/includes/class-license_old.php:1032
+#, php-format
+msgid "The subscription for %s has been suspended. You can reactivate the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: d:\wp-office/includes/class-license_old.php:1039
+#, php-format
+msgid "The subscription for %s is still pending. You can check on the status of the subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: d:\wp-office/includes/class-license_old.php:1046
+#, php-format
+msgid "The subscription for %s has been placed in the trash and will be deleted soon. You can purchase a new subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: d:\wp-office/includes/class-license_old.php:1053
+#, php-format
+msgid "A subscription for %s could not be found. You can purchase a subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: d:\wp-office/includes/class-license_old.php:1060
+#, php-format
+msgid "A license key for %s could not be found. Maybe you forgot to enter a license key when setting up %s, or the key was deactivated in your account. You can reactivate or purchase a license key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: d:\wp-office/includes/class-license_old.php:1067
+#, php-format
+msgid "Download permission for %s has been revoked possibly due to a license key or subscription expiring. You can reactivate or purchase a license key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: d:\wp-office/includes/class-license_old.php:1074
+#, php-format
+msgid "%s has not been activated. Go to the settings page and enter the license key and license email to activate %s."
+msgstr ""
+
+#: d:\wp-office/includes/class-license_old.php:1081
+#, php-format
+msgid "You changed the subscription for %s, so you will need to enter your new API License Key in the settings page. The License Key should have arrived in your email inbox, if not you can get it by logging into your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: d:\wp-office/includes/admin/categories.php:35
+msgid "List Table object is empty"
+msgstr ""
+
+#: d:\wp-office/includes/admin/categories.php:80
+msgid "Are you sure you want to delete this Category?"
+msgstr ""
+
+#: d:\wp-office/includes/admin/categories.php:95
+msgid "Category was Deleted!"
+msgstr ""
+
+#: d:\wp-office/includes/admin/dashboard.php:50
+msgid "Reloading"
+msgstr ""
+
+#: d:\wp-office/includes/admin/features.php:43
+msgid "New features will be added soon."
+msgstr ""
+
+#: d:\wp-office/includes/admin/features.php:50
+msgid "Available Features"
+msgstr ""
+
+#: d:\wp-office/includes/admin/features.php:56
+msgid "Buyable Extensions"
+msgstr ""
+
+#: d:\wp-office/includes/admin/features.php:62
+#, php-format
+msgid "Available for pre-sale (25% discount)"
+msgstr ""
+
+#: d:\wp-office/includes/admin/features.php:68
+#, php-format
+msgid "Available for pre-developing (50% discount)"
+msgstr ""
+
+#: d:\wp-office/includes/admin/features.php:106
+msgid "Save"
+msgstr ""
+
+#: d:\wp-office/includes/admin/features.php:129
+msgid "Features has been Updated Successfully!"
+msgstr ""
+
+#: d:\wp-office/includes/admin/features.php:178
+msgid "Active"
+msgstr ""
+
+#: d:\wp-office/includes/admin/features.php:178
+msgid "Inactive"
+msgstr ""
+
+#: d:\wp-office/includes/admin/features_pro.php:50
+msgid "File Sharing"
+msgstr ""
+
+#: d:\wp-office/includes/admin/features_pro.php:61
+msgid "Private Messaging"
+msgstr ""
+
+#: d:\wp-office/includes/admin/features_pro.php:73
+msgid "Circles"
+msgstr ""
+
+#: d:\wp-office/includes/admin/features_pro.php:83
+msgid "Role Capabilities Editor"
+msgstr ""
+
+#: d:\wp-office/includes/admin/features_pro.php:94
+msgid "Custom Redirects"
+msgstr ""
+
+#: d:\wp-office/includes/admin/features_pro.php:104
+msgid "Approve Member"
+msgstr ""
+
+#: d:\wp-office/includes/admin/features_pro.php:114
+msgid "Custom Email Notifications"
+msgstr ""
+
+#: d:\wp-office/includes/admin/features_pro.php:125
+msgid "Frontend Templates"
+msgstr ""
+
+#: d:\wp-office/includes/admin/features_pro.php:138
+msgid "Like OfficeWP Lite? Purchasing a Pro license gets you all of the features below, plus many others as we continue to update and build onto the plugin"
+msgstr ""
+
+#: d:\wp-office/includes/admin/features_pro.php:169
+msgid "and much more..."
+msgstr ""
+
+#: d:\wp-office/includes/admin/features_pro.php:171
+msgid "Do you want to improve your business?"
+msgstr ""
+
+#: d:\wp-office/includes/admin/members.php:21
+#: d:\wp-office/includes/admin/members_archive.php:21
+msgid "- Cancelled"
+msgstr ""
+
+#: d:\wp-office/includes/admin/members.php:22
+#: d:\wp-office/includes/admin/members_archive.php:22
+msgid "- Completed"
+msgstr ""
+
+#: d:\wp-office/includes/admin/members.php:23
+#: d:\wp-office/includes/admin/members_archive.php:23
+msgid "404 Error"
+msgstr ""
+
+#: d:\wp-office/includes/admin/members.php:24
+#: d:\wp-office/includes/admin/members_archive.php:24
+msgid "403 Forbidden"
+msgstr ""
+
+#: d:\wp-office/includes/admin/members.php:25
+#: d:\wp-office/includes/admin/members_archive.php:25
+msgid "Forbidden File Type"
+msgstr ""
+
+#: d:\wp-office/includes/admin/members.php:26
+#: d:\wp-office/includes/admin/members_archive.php:26
+msgid "File Too Large"
+msgstr ""
+
+#: d:\wp-office/includes/admin/members.php:27
+#: d:\wp-office/includes/admin/members_archive.php:27
+msgid "Unknown Error"
+msgstr ""
+
+#: d:\wp-office/includes/admin/members.php:37
+#: d:\wp-office/includes/admin/members_archive.php:39
+msgid "At first create roles"
+msgstr ""
+
+#: d:\wp-office/includes/admin/members.php:102
+msgid "Are you sure archive this Member?"
+msgstr ""
+
+#: d:\wp-office/includes/admin/members.php:117
+msgid "Member was Archived!"
+msgstr ""
+
+#: d:\wp-office/includes/admin/members.php:133
+#: d:\wp-office/includes/admin/members_archive.php:114
+msgid "Are you sure delete this Member?"
+msgstr ""
+
+#: d:\wp-office/includes/admin/members.php:148
+#: d:\wp-office/includes/admin/members_archive.php:129
+msgid "Member was Deleted!"
+msgstr ""
+
+#: d:\wp-office/includes/admin/members_archive.php:84
+msgid "Are you sure restore this Member?"
+msgstr ""
+
+#: d:\wp-office/includes/admin/members_archive.php:99
+msgid "Member was Restored!"
+msgstr ""
+
+#: d:\wp-office/includes/admin/office_hubs.php:30
+msgid "Are you sure you want to move this HUB to the Trash?"
+msgstr ""
+
+#: d:\wp-office/includes/admin/office_hubs.php:45
+#: d:\wp-office/includes/admin/office_pages.php:41
+msgid "Page was moved to Trash!"
+msgstr ""
+
+#: d:\wp-office/includes/admin/office_hubs.php:59
+#: d:\wp-office/includes/admin/office_pages.php:55
+msgid "Are you sure you want to permanently delete this page?"
+msgstr ""
+
+#: d:\wp-office/includes/admin/office_hubs.php:74
+#: d:\wp-office/includes/admin/office_pages.php:70
+msgid "Page was Deleted!"
+msgstr ""
+
+#: d:\wp-office/includes/admin/office_hubs.php:87
+#: d:\wp-office/includes/admin/office_pages.php:83
+msgid "Are you sure Restore this Page?"
+msgstr ""
+
+#: d:\wp-office/includes/admin/office_hubs.php:102
+#: d:\wp-office/includes/admin/office_pages.php:98
+msgid "Page was Restored!"
+msgstr ""
+
+#: d:\wp-office/includes/admin/office_hubs.php:115
+msgid "Are you sure you want to set this HUB page as Default?"
+msgstr ""
+
+#: d:\wp-office/includes/admin/office_pages.php:26
+msgid "Are you sure move to trash this page?"
+msgstr ""
+
+#: d:\wp-office/includes/admin/profiles.php:51
+msgid "Are you sure delete this Profile?"
+msgstr ""
+
+#: d:\wp-office/includes/admin/settings.php:14
+msgid "General"
+msgstr ""
+
+#: d:\wp-office/includes/admin/settings.php:19
+msgid "Common"
+msgstr ""
+
+#: d:\wp-office/includes/admin/settings.php:34
+msgid "Link Endpoints"
+msgstr ""
+
+#: d:\wp-office/includes/admin/settings.php:39
+msgid "Contact Info"
+msgstr ""
+
+#: d:\wp-office/includes/admin/settings.php:83
+msgid "Customization"
+msgstr ""
+
+#: d:\wp-office/includes/admin/settings.php:88
+msgid "Custom Style"
+msgstr ""
+
+#: d:\wp-office/includes/admin/settings.php:106
+msgid "Templates"
+msgstr ""
+
+#: d:\wp-office/includes/admin/settings.php:111
+msgid "Email Notifications"
+msgstr ""
+
+#: d:\wp-office/includes/admin/settings.php:245
+msgid "Settings Updated!"
+msgstr ""
+
+#: d:\wp-office/includes/admin/settings.php:258
+msgid "Some Errors:"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:25
+#, php-format
+msgid "%s - We recommend setting memory to at least 64 MB. See: <a href=\"%s\" target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:35
+#, php-format
+msgid "%s - We recommend a minimum PHP version of 5.4."
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:47
+msgid "Default"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:49
+msgid " (Change to Post Name)"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:56
+msgid "Disabled (cURL must be enabled)"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:76
+msgid "Lynx"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:77
+msgid "FireFox"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:78
+msgid "Opera"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:79
+msgid "Netscape"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:80
+msgid "Safari"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:81
+msgid "Google Chrome"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:82
+msgid "iPhone"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:83
+msgid "Mac Internet Explorer"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:84
+msgid "Windows Internet Explorer"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:85
+msgid "Internet Explorer"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:91
+#, php-format
+msgid "You are using %s"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:112
+msgid "by"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:125
+#: d:\wp-office/includes/admin/system_status.php:135
+msgid "version"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:156
+#, php-format
+msgid "%s - %s is available."
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:175
+msgid "WordPress Environment"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:178
+msgid "Home URL"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:178
+msgid "The URL of your site's homepage."
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:182
+msgid "Site URL"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:182
+msgid "The root URL of your site."
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:186
+#, php-format
+msgid "%s Version"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:186
+#, php-format
+msgid "The version of %s installed on your site."
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:190
+msgid "WP Version"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:190
+msgid "The version of WordPress installed on your site."
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:195
+msgid "WP Multisite"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:195
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:199
+msgid "WP Memory Limit"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:199
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:203
+msgid "WP Debug Mode"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:203
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:207
+msgid "Language"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:207
+msgid "The current language used by WordPress. Default = English"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:214
+msgid "Server Environment"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:217
+msgid "Server Info"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:217
+msgid "Information about the web server that is currently hosting your site."
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:221
+msgid "PHP Version"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:221
+msgid "The version of PHP installed on your hosting server."
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:225
+msgid "MySQL Version"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:225
+msgid "The version of MySQL installed on your hosting server."
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:229
+msgid "Max Upload Size"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:229
+msgid "The largest filesize that can be uploaded to your WordPress installation."
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:233
+msgid "fsockopen/cURL"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:233
+msgid "Plugin can use cURL to communicate with remote servers (for example: payment gateways or some remote services) other plugins may also use it when communicating with remote services."
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:237
+msgid "Remote Post"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:237
+msgid "Plugin can use Remote Post to communicate with remote servers (for example: payment gateways or some remote services) other plugins may also use it when communicating with remote services."
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:241
+msgid "Remote Get"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:241
+msgid "Plugin can use Remote Get to communicate with remote servers (for example: payment gateways or some remote services) other plugins may also use it when communicating with remote services."
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:248
+#: d:\wp-office/includes/core/class-admin-menu.php:398
+#: d:\wp-office/includes/core/class-admin-menu.php:406
+#: d:\wp-office/includes/core/class-admin-menu.php:720
+#: d:\wp-office/includes/core/class-admin.php:79
+msgid "Settings"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:251
+msgid "Force SSL"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:251
+msgid "Does your site force a SSL Certificate for transactions?"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:255
+msgid "Permalinks"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:255
+msgid "Permalinks are the permanent URLs to your posts."
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:259
+msgid "Browser"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:267
+msgid "Database"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:270
+msgid "WP Database Version"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:277
+msgid "WPO Pages"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:283
+msgid "Theme"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:286
+msgid "Name"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:286
+msgid "The name of the current active theme."
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:290
+msgid "Version"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:290
+msgid "The installed version of the current active theme."
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:294
+msgid "Author URL"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:294
+msgid "The theme developers URL."
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:298
+msgid "Child Theme"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:298
+msgid "Displays whether or not the current theme is a child theme."
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:305
+#, php-format
+msgid "Active Plugins (%s)"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:313
+msgid "Parent Theme Name"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:313
+msgid "The name of the parent theme."
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:317
+msgid "Parent Theme Version"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:317
+msgid "The installed version of the parent theme."
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:321
+msgid "Parent Theme Author URL"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:321
+msgid "The parent theme developers URL."
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:329
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:329
+msgid "The largest filesize that can be contained in one post."
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:334
+msgid "PHP Time Limit"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:334
+msgid "The amount of time (in seconds) that your site will spend on a single operation before timing out (to avoid server lockups)"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:339
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:339
+msgid "The maximum number of variables your server can use for a single function to avoid overloads."
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:344
+msgid "PHP Mbstring Extension"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:344
+msgid "Mbstring Extension is designed to handle Unicode."
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:349
+msgid "PHP Zlib Extension"
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:349
+msgid "This module enables you to transparently read and write gzip (.gz) compressed files."
+msgstr ""
+
+#: d:\wp-office/includes/admin/system_status.php:423
+msgid "Some Error"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-assign.php:84
+msgid "Assigned"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-assign.php:219
+msgid "Update"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-assign.php:222
+msgid "Assign"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-assign.php:227
+msgid "Assign "
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-assign.php:242
+msgid "Assign Office Page"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-assign.php:253
+msgid "Assign Office HUB"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-assign.php:264
+msgid "Assign Member"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-assign.php:275
+msgid "Assign Office Page Category"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-assign.php:401
+#: d:\wp-office/includes/core/class-admin-list-table.php:1087
+msgid "Search"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-assign.php:406
+msgid "Check All"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-assign.php:410
+msgid "Check All at this Page"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-assign.php:414
+#: d:\wp-office/includes/core/class-admin-list-table.php:715
+msgid "item"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-assign.php:414
+#: d:\wp-office/includes/core/class-admin-list-table.php:715
+msgid "items"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-assign.php:431
+#: d:\wp-office/includes/core/class-admin-list-table.php:736
+msgid "of"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-assign.php:683
+msgid "Page"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-assign.php:690
+#: d:\wp-office/includes/core/class-admin-metaboxes.php:137
+msgid "Page Category"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-assign.php:1395
+#: d:\wp-office/includes/core/class-admin-assign.php:1420
+#, php-format
+msgid "Assigned %s items"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-dashboard.php:85
+msgid "Select Widget's Color"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-dashboard.php:106
+msgid "Reload This Widget"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-dashboard.php:107
+msgid "Toogle Collapsing This Widget"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-dashboard.php:132
+msgid "View All"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-dashboard.php:247
+msgid "In Archive"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-dashboard.php:258
+msgid " registrations in this month"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-dashboard.php:300
+msgid "Last 10 Office Pages"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-dashboard.php:309
+msgid "View"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-dashboard.php:310
+msgid "Edit this item"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-dashboard.php:310
+msgid "Edit"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-dashboard.php:318
+msgid "You don't have Office Pages"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-list-table.php:591
+#, php-format
+msgid "No %s found."
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-list-table.php:837
+msgid "Select All"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-list-table.php:1116
+msgid "Apply"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-list-table.php:1117
+msgid "Are You sure"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-list-table.php:1118
+msgid "No Items Selected"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-list-table.php:1231
+msgid "Filter"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-list-table.php:1233
+#: d:\wp-office/includes/core/class-admin-metaboxes.php:139
+msgid "None"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-list-table.php:1256
+msgid "Filters"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-list-table.php:1261
+msgid "Filter By"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-list-table.php:1276
+msgid "Apply Filter"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-menu.php:96
+msgid "Back To Office HUBs"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-menu.php:99
+msgid "Back To Office Pages"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-menu.php:147
+#: d:\wp-office/includes/core/class-admin-menu.php:207
+msgid "Move to Trash"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-menu.php:303
+#: d:\wp-office/includes/core/class-admin-menu.php:557
+msgid "Dashboard"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-menu.php:310
+msgid "Get Started"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-menu.php:317
+msgid "Features"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-menu.php:324
+msgid "System Status"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-menu.php:349
+msgid "Archive"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-menu.php:358
+#: d:\wp-office/includes/core/class-admin-menu.php:359
+msgid "Contents"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-menu.php:381
+msgid "Profiles"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-menu.php:436
+#, php-format
+msgid "%s Wordpress Client Management Portal | Documentation & Tips"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-menu.php:437
+#: d:\wp-office/includes/core/class-admin-menu.php:445
+msgid "Help"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-menu.php:459
+msgid "Pro Features"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-menu.php:622
+#: d:\wp-office/includes/core/class-admin.php:117
+#: d:\wp-office/includes/core/class-admin.php:119
+#: d:\wp-office/includes/core/class-admin.php:129
+#: d:\wp-office/includes/core/class-admin.php:136
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-menu.php:714
+msgid "Help Mode"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-menu.php:737
+msgid "Get Pro"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-metaboxes.php:44
+msgid "Office Page Settings"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-metaboxes.php:46
+msgid "Office HUB Settings"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-metaboxes.php:122
+#: d:\wp-office/includes/core/class-admin-metaboxes.php:236
+msgid "Template"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-metaboxes.php:125
+#: d:\wp-office/includes/core/class-admin-metaboxes.php:239
+msgid "Page Template"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-metaboxes.php:127
+#: d:\wp-office/includes/core/class-admin-metaboxes.php:241
+msgid "Default Template"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-metaboxes.php:132
+msgid "Office Page Category"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-metaboxes.php:146
+msgid "No Office Page Categories Created"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-metaboxes.php:151
+#: d:\wp-office/includes/core/class-admin-metaboxes.php:247
+msgid "Access to Page"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin-metaboxes.php:154
+#: d:\wp-office/includes/core/class-admin-metaboxes.php:250
+msgid "Page Access"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin.php:73
+msgid "Add Shortcode"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin.php:80
+msgid "Are you sure? It will remove all data as Members, HUB Pages, Office Pages, Messages, Files and Settings"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-admin.php:80
+msgid "Reset Data"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-api.php:16
+#: d:\wp-office/includes/core/class-api.php:60
+msgid "Wrong action"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-api.php:19
+#: d:\wp-office/includes/core/class-api.php:63
+msgid "Wrong resource"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-api.php:51
+#: d:\wp-office/includes/core/class-api.php:92
+msgid "Wrong nonce"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-downloader.php:52
+msgid "Invalid file. Please try downloading again!"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-downloader.php:72
+msgid "File does not exists."
+msgstr ""
+
+#: d:\wp-office/includes/core/class-downloader.php:129
+msgid "Wrong action."
+msgstr ""
+
+#: d:\wp-office/includes/core/class-downloader.php:153
+#: d:\wp-office/includes/core/class-downloader.php:236
+msgid "Invalid ID."
+msgstr ""
+
+#: d:\wp-office/includes/core/class-downloader.php:158
+#: d:\wp-office/includes/core/class-downloader.php:163
+msgid "Invalid IDs."
+msgstr ""
+
+#: d:\wp-office/includes/core/class-downloader.php:222
+msgid "Invalid type."
+msgstr ""
+
+#: d:\wp-office/includes/core/class-help.php:71
+msgid ""
+"On this page you can change the Client's info, such as\n"
+"updating their email address or phone number."
+msgstr ""
+
+#: d:\wp-office/includes/core/class-help.php:76
+msgid "Create new WP Office Member and add them to this site"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-help.php:80
+msgid "General Plugin Settings"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-help.php:84
+msgid "Manage the member's capabilities to configure your system flexibility here"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-help.php:88
+msgid "This information can be used in email notifications to your Members, using the provided placeholders"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-help.php:92
+#, php-format
+msgid "Frontend %s style settings"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-help.php:96
+#: d:\wp-office/includes/core/class-help.php:100
+msgid "Create email notifications to notify your members about actions at your site"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-help.php:104
+#, php-format
+msgid "You can customize here your %s's permalinks and pages structure"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-install.php:460
+msgid "Your Office Page has been updated"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-lswpoaccess.php:140
+msgid "License Activation"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-lswpoaccess_old.php:256
+#, php-format
+msgid "The <strong>%s</strong> License Code has not been activated, so plugin features are unavailable! %sClick here%s to register <strong>%s</strong>."
+msgstr ""
+
+#: d:\wp-office/includes/core/class-members.php:44
+#: d:\wp-office/includes/core/class-members.php:79
+msgid "Invalid Email."
+msgstr ""
+
+#: d:\wp-office/includes/core/class-members.php:50
+#: d:\wp-office/includes/core/class-members.php:81
+msgid "Email address already in use."
+msgstr ""
+
+#: d:\wp-office/includes/core/class-members.php:70
+msgid "Username already exists."
+msgstr ""
+
+#: d:\wp-office/includes/core/class-members.php:77
+msgid "Email is required."
+msgstr ""
+
+#: d:\wp-office/includes/core/class-members.php:294
+#: d:\wp-office/includes/core/class-members.php:482
+msgid "Very Weak"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-members.php:295
+#: d:\wp-office/includes/core/class-members.php:483
+msgid "Weak"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-members.php:296
+#: d:\wp-office/includes/core/class-members.php:484
+msgid "Medium"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-members.php:297
+#: d:\wp-office/includes/core/class-members.php:485
+msgid "Strong"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-members.php:311
+#: d:\wp-office/includes/core/class-members.php:600
+msgid "Generate Password"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-members.php:311
+#: d:\wp-office/includes/core/class-members.php:600
+msgid "Show Password"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-members.php:330
+#: d:\wp-office/includes/core/class-members.php:332
+#: d:\wp-office/includes/core/class-members.php:622
+#: d:\wp-office/includes/core/class-members.php:624
+msgid "Hide"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-members.php:333
+#: d:\wp-office/includes/core/class-members.php:625
+msgid "Show"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-members.php:335
+#: d:\wp-office/includes/core/class-members.php:629
+msgid "Cancel"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-members.php:345
+#: d:\wp-office/includes/core/class-members.php:638
+msgid "Confirm use of weak password"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-members.php:636
+msgid "Confirm weak password"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-members.php:728
+msgid "Remove Avatar"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-members.php:781
+msgid "Upload New"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-members.php:809
+msgid "Unsupported file type"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-members.php:811
+#: d:\wp-office/includes/core/class-members.php:813
+#: d:\wp-office/includes/core/class-members.php:815
+msgid "File is too large"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-members.php:817
+msgid "404 - file not found"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-members.php:952
+msgid "There was an error uploading the file, please try again!"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-members.php:957
+msgid "Your file is not image, please try again!"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-members.php:1027
+msgid "Wrong Member!"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-members.php:1030
+msgid "Wrong Member Role!"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-members.php:1082
+msgid "Profile Updated!"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-members.php:1085
+#: d:\wp-office/includes/core/class-members.php:1186
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:662
+msgid "Wrong Data!"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-shortcodes.php:198
+msgid "Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#: d:\wp-office/includes/core/class-shortcodes.php:208
+msgid "Enter a username or e-mail address."
+msgstr ""
+
+#: d:\wp-office/includes/core/class-shortcodes.php:214
+msgid "Invalid E-mail."
+msgstr ""
+
+#: d:\wp-office/includes/core/class-shortcodes.php:217
+msgid "There is no user registered with that E-mail address."
+msgstr ""
+
+#: d:\wp-office/includes/core/class-shortcodes.php:225
+msgid "There is no user registered with that Username."
+msgstr ""
+
+#: d:\wp-office/includes/core/class-shortcodes.php:273
+msgid "The e-mail could not be sent."
+msgstr ""
+
+#: d:\wp-office/includes/core/class-shortcodes.php:274
+#, php-format
+msgid "Possible reason: %s"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-shortcodes.php:290
+#: d:\wp-office/includes/core/class-shortcodes.php:296
+#: d:\wp-office/includes/core/class-shortcodes.php:303
+msgid "Invalid key."
+msgstr ""
+
+#: d:\wp-office/includes/core/class-shortcodes.php:292
+#: d:\wp-office/includes/core/class-shortcodes.php:298
+#: d:\wp-office/includes/core/class-shortcodes.php:305
+msgid "Get New Password"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-shortcodes.php:308
+msgid "Enter your new password below."
+msgstr ""
+
+#: d:\wp-office/includes/core/class-shortcodes.php:334
+msgid "Check your email for the confirmation link."
+msgstr ""
+
+#: d:\wp-office/includes/core/class-shortcodes.php:340
+msgid "Your password has been reset."
+msgstr ""
+
+#: d:\wp-office/includes/core/class-shortcodes.php:425
+msgid "Registration disabled"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-shortcodes.php:507
+msgid "WP Office Shortcodes"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-shortcodes.php:518
+msgid "Shortcode does not exists"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-shortcodes.php:522
+msgid "Shortcode title is empty"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-shortcodes.php:542
+msgid "Wrong input data"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-shortcodes.php:561
+msgid "Login Form"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-shortcodes.php:562
+msgid "Displays a frontend Login Form"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-shortcodes.php:566
+msgid "Profile Form"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-shortcodes.php:567
+msgid "Displays a frontend Profile Form"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-shortcodes.php:571
+msgid "Registration Form"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-shortcodes.php:572
+msgid "Displays a frontend Registration Form"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-shortcodes.php:576
+msgid "Role"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-shortcodes.php:581
+msgid "Message if registration is disabled"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-shortcodes.php:588
+msgid "Office Pages List"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-shortcodes.php:589
+msgid "Displays a list of Office Pages assigned to user"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-validation.php:17
+msgid "Field is required"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-validation.php:18
+msgid "Invalid email"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-validation.php:19
+msgid "Username already exists"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-validation.php:20
+msgid "Email already exists"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-validation.php:21
+msgid "Invalid URL for Login Redirect"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-validation.php:22
+msgid "Profile already exists"
+msgstr ""
+
+#: d:\wp-office/includes/core/class-validation.php:23
+msgid "Circle already exists"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/class-capabilities.php:21
+msgid "Capabilities"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/class-capabilities.php:32
+#, php-format
+msgid "%s Capabilities"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:120
+msgid "Allow frontend registration"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:130
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:290
+msgid "View Office Pages"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:135
+msgid "Create Office Page"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:141
+msgid "Edit Office Page"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:147
+msgid "Delete Office Page"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:155
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:309
+msgid "Office Page Categories"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:158
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:312
+msgid "View Office Page Categories"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:163
+msgid "Create Office Page Categories"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:169
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:317
+msgid "Edit Office Page Categories"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:175
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:323
+msgid "Delete Office Page Categories"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:183
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:331
+msgid "HUBs"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:186
+msgid "View HUB Pages"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:191
+msgid "Create HUB Page"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:197
+msgid "Edit HUB Page"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:203
+msgid "Delete HUB Page"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:214
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:356
+msgid "View Profiles"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:219
+msgid "Create Profile"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:225
+msgid "Edit Profile"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:231
+msgid "Delete Profile"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:250
+msgid "View Member"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:255
+msgid "Add Member"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:261
+msgid "Edit Member"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:267
+msgid "Delete Member"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:279
+msgid "Archive Member"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:295
+msgid "Edit Office Pages"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:301
+msgid "Delete Office Pages"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:334
+msgid "View HUBs"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:339
+msgid "Edit HUBs"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:345
+msgid "Delete HUBs"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:361
+msgid "Edit Profiles"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:367
+msgid "Delete Profiles"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:453
+msgid "Personal Capabilities"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:454
+msgid "This is personal capabilities"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:487
+msgid "All"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:493
+msgid "Only Child"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:562
+msgid "Manage Capabilities"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:563
+msgid "This is manage capabilities"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:625
+msgid "At first, please activate some Manage Capability"
+msgstr ""
+
+#: d:\wp-office/includes/features/capabilities/settings/class-setting-capabilities.php:655
+msgid "Capabilities was saved!"
+msgstr ""
+
+#: d:\wp-office/includes/features/circles/class-circle-form.php:28
+msgid "Edit Circle"
+msgstr ""
+
+#: d:\wp-office/includes/features/circles/class-circle-form.php:28
+msgid "Add new Circle"
+msgstr ""
+
+#: d:\wp-office/includes/features/circles/class-circle-form.php:46
+msgid "Title"
+msgstr ""
+
+#: d:\wp-office/includes/features/circles/class-circle-form.php:53
+msgid "Circle Title must be unique"
+msgstr ""
+
+#: d:\wp-office/includes/features/circles/class-circle-form.php:61
+msgid "Circle Members"
+msgstr ""
+
+#: d:\wp-office/includes/features/circles/class-circle-form.php:99
+#: d:\wp-office/includes/features/circles/class-circle-form.php:111
+msgid "Circle Supervisors"
+msgstr ""
+
+#: d:\wp-office/includes/features/circles/class-circle-form.php:141
+#: d:\wp-office/includes/features/circles/class-circle-form.php:237
+#: d:\wp-office/includes/features/circles/class-circle-form.php:306
+#: d:\wp-office/includes/features/circles/class-circle-form.php:310
+msgid "You don't have capabilities for this action"
+msgstr ""
+
+#: d:\wp-office/includes/features/circles/class-circle-form.php:301
+msgid "Circle does not exists"
+msgstr ""
+
+#: d:\wp-office/includes/features/circles/class-circle-form.php:386
+msgid "Circle was updated"
+msgstr ""
+
+#: d:\wp-office/includes/features/circles/class-circle-form.php:388
+msgid "Circle was created"
+msgstr ""
+
+#: d:\wp-office/includes/features/circles/class-circles.php:27
+msgid "Add Supervisors to Circle"
+msgstr ""
+
+#: d:\wp-office/includes/features/circles/class-circles.php:29
+msgid "Add Members to Circle"
+msgstr ""
+
+#: d:\wp-office/includes/features/circles/class-circles.php:69
+#: d:\wp-office/includes/features/circles/class-circles.php:81
+#: d:\wp-office/includes/features/circles/class-circles.php:92
+#: d:\wp-office/includes/features/circles/list-table/class-list-table-circles.php:19
+msgid "Circle"
+msgstr ""
+
+#: d:\wp-office/includes/features/circles/class-circles.php:438
+#: d:\wp-office/includes/features/circles/class-circles.php:478
+msgid "View Circles"
+msgstr ""
+
+#: d:\wp-office/includes/features/circles/class-circles.php:443
+msgid "Create Circles"
+msgstr ""
+
+#: d:\wp-office/includes/features/circles/class-circles.php:449
+#: d:\wp-office/includes/features/circles/class-circles.php:483
+msgid "Edit Circles"
+msgstr ""
+
+#: d:\wp-office/includes/features/circles/class-circles.php:455
+#: d:\wp-office/includes/features/circles/class-circles.php:489
+msgid "Delete Circles"
+msgstr ""
+
+#: d:\wp-office/includes/features/circles/class-circles.php:659
+msgid "Top-5 Circles"
+msgstr ""
+
+#: d:\wp-office/includes/features/circles/class-circles.php:678
+msgid "You don't have Circles"
+msgstr ""
+
+#: d:\wp-office/includes/features/circles/index.php:19
+msgid "Easily group users for organization, and quickly bulk assign resources (files, pages, etc) to many users at once."
+msgstr ""
+
+#: d:\wp-office/includes/features/circles/admin/circles.php:52
+msgid "Are you sure delete this Circle?"
+msgstr ""
+
+#: d:\wp-office/includes/features/circles/list-table/class-list-table-circles.php:34
+#: d:\wp-office/includes/features/circles/list-table/class-list-table-circles.php:102
+#: d:\wp-office/includes/features/custom-redirects/list-table/class-list-table-custom-redirects.php:26
+#: d:\wp-office/includes/features/custom-redirects/list-table/class-list-table-custom-redirects.php:146
+#: d:\wp-office/includes/features/email-notifications/class-email-notifications.php:187
+msgid "Delete Permanently"
+msgstr ""
+
+#: d:\wp-office/includes/features/circles/list-table/class-list-table-circles.php:51
+#: d:\wp-office/includes/features/circles/list-table/class-list-table-circles.php:201
+msgid "Supervisors"
+msgstr ""
+
+#: d:\wp-office/includes/features/circles/list-table/class-list-table-circles.php:92
+msgid "Create"
+msgstr ""
+
+#: d:\wp-office/includes/features/circles/list-table/class-list-table-circles.php:234
+#: d:\wp-office/includes/features/circles/list-table/class-list-table-circles.php:257
+#: d:\wp-office/includes/features/custom-redirects/class-custom-redirect-form.php:321
+#: d:\wp-office/includes/features/custom-redirects/list-table/class-list-table-custom-redirects.php:282
+#: d:\wp-office/includes/features/custom-redirects/list-table/class-list-table-custom-redirects.php:305
+msgid "Wrong data"
+msgstr ""
+
+#: d:\wp-office/includes/features/circles/list-table/class-list-table-circles.php:284
+msgid "Circle(s) was Deleted!"
+msgstr ""
+
+#: d:\wp-office/includes/features/circles/list-table/class-list-table-circles.php:286
+msgid "Cannot delete Circle(s)"
+msgstr ""
+
+#: d:\wp-office/includes/features/circles/list-table/class-list-table-circles.php:290
+msgid "Something wrong"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/class-custom-redirect-form.php:103
+msgid "Edit Custom Redirect"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/class-custom-redirect-form.php:103
+msgid "Add Custom Redirect"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/class-custom-redirect-form.php:121
+#: d:\wp-office/includes/features/custom-redirects/list-table/class-list-table-custom-redirects.php:239
+msgid "First Time Login"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/class-custom-redirect-form.php:122
+#: d:\wp-office/includes/features/custom-redirects/list-table/class-list-table-custom-redirects.php:242
+msgid "Member Login"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/class-custom-redirect-form.php:123
+#: d:\wp-office/includes/features/custom-redirects/list-table/class-list-table-custom-redirects.php:245
+msgid "Member Logout"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/class-custom-redirect-form.php:124
+#: d:\wp-office/includes/features/custom-redirects/list-table/class-list-table-custom-redirects.php:248
+msgid "After Member Registration"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/class-custom-redirect-form.php:125
+msgid "Non-logged-in user visits protected URLs"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/class-custom-redirect-form.php:134
+msgid "Redirect To"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/class-custom-redirect-form.php:142
+msgid "Redirect Link after selected action"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/class-custom-redirect-form.php:147
+#: d:\wp-office/includes/features/custom-redirects/list-table/class-list-table-custom-redirects.php:44
+msgid "Order"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/class-custom-redirect-form.php:150
+msgid "Priority of current redirect link"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/class-custom-redirect-form.php:154
+msgid "Redirect after"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/class-custom-redirect-form.php:159
+msgid "Event after which selected users redirect"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/class-custom-redirect-form.php:163
+msgid "Redirect for"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/class-custom-redirect-form.php:169
+msgid "Selected"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/class-custom-redirect-form.php:171
+#: d:\wp-office/includes/features/custom-redirects/class-custom-redirect-form.php:182
+#: d:\wp-office/includes/features/custom-redirects/class-custom-redirect-form.php:193
+msgid "Users who will be redirected after selected action"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/class-custom-redirect-form.php:176
+#: d:\wp-office/includes/features/custom-redirects/class-custom-redirect-form.php:187
+msgid "Select"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/class-custom-redirect-form.php:316
+msgid "Custom Redirect was updated"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/class-custom-redirect-form.php:318
+msgid "Custom Redirect was created"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/class-custom-redirects.php:37
+msgid "Select Members"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/class-custom-redirects.php:456
+#: d:\wp-office/includes/features/custom-redirects/class-custom-redirects.php:460
+msgid "Create redirects after actions for different members at your site"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/index.php:19
+msgid "Easily define where users are sent after login, logout, after registration, etc. Redirects can be for all users, or be for a specific user or group of users."
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/list-table/class-list-table-custom-redirects.php:16
+msgid "Redirect"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/list-table/class-list-table-custom-redirects.php:17
+msgid "Redirects"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/list-table/class-list-table-custom-redirects.php:33
+msgid "Link"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/list-table/class-list-table-custom-redirects.php:36
+msgid "Type"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/list-table/class-list-table-custom-redirects.php:40
+msgid "For"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/list-table/class-list-table-custom-redirects.php:94
+msgid "Are you sure delete this Redirect?"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/list-table/class-list-table-custom-redirects.php:109
+msgid "Redirect was Deleted!"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/list-table/class-list-table-custom-redirects.php:138
+msgid "Add New Redirect"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/list-table/class-list-table-custom-redirects.php:251
+msgid "Not logged User"
+msgstr ""
+
+#: d:\wp-office/includes/features/custom-redirects/list-table/class-list-table-custom-redirects.php:329
+msgid "Circle(s) was deleted!"
+msgstr ""
+
+#: d:\wp-office/includes/features/email-notifications/class-email-notifications.php:26
+msgid "Who does the action"
+msgstr ""
+
+#: d:\wp-office/includes/features/email-notifications/class-email-notifications.php:37
+msgid "Who gets the notification"
+msgstr ""
+
+#: d:\wp-office/includes/features/email-notifications/class-email-notifications.php:82
+msgid "Add New Notification"
+msgstr ""
+
+#: d:\wp-office/includes/features/email-notifications/class-email-notifications.php:91
+msgid "Add New Rule"
+msgstr ""
+
+#: d:\wp-office/includes/features/email-notifications/class-email-notifications.php:168
+#: d:\wp-office/includes/features/email-notifications/class-email-notifications.php:294
+#: d:\wp-office/includes/features/email-notifications/class-email-notifications.php:320
+msgid "Delete"
+msgstr ""
+
+#: d:\wp-office/includes/features/email-notifications/class-email-notifications.php:342
+msgid "Create Rules for Email Notification"
+msgstr ""
+
+#: d:\wp-office/includes/features/email-notifications/class-email-notifications.php:349
+msgid "Action"
+msgstr ""
+
+#: d:\wp-office/includes/features/email-notifications/class-email-notifications.php:358
+msgid "When notification will be send"
+msgstr ""
+
+#: d:\wp-office/includes/features/email-notifications/class-email-notifications.php:367
+msgid "All Roles"
+msgstr ""
+
+#: d:\wp-office/includes/features/email-notifications/class-email-notifications.php:368
+msgid "Selected Roles"
+msgstr ""
+
+#: d:\wp-office/includes/features/email-notifications/class-email-notifications.php:371
+#: d:\wp-office/includes/features/email-notifications/class-email-notifications.php:386
+msgid "Who doing action"
+msgstr ""
+
+#: d:\wp-office/includes/features/email-notifications/class-email-notifications.php:391
+msgid "Recipient"
+msgstr ""
+
+#: d:\wp-office/includes/features/email-notifications/class-email-notifications.php:396
+#: d:\wp-office/includes/features/email-notifications/class-email-notifications.php:411
+msgid "Who gets notification"
+msgstr ""
+
+#: d:\wp-office/includes/features/email-notifications/class-email-notifications.php:422
+msgid "Update Sending Rule"
+msgstr ""
+
+#: d:\wp-office/includes/features/email-notifications/class-email-notifications.php:422
+msgid "Create Sending Rule"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:23
+#: d:\wp-office/includes/features/files/class-files.php:37
+#: d:\wp-office/includes/features/files/class-files.php:53
+#: d:\wp-office/includes/features/files/class-files.php:952
+#: d:\wp-office/includes/features/files/class-files.php:1013
+#: d:\wp-office/includes/features/files/class-files.php:1627
+#: d:\wp-office/includes/features/files/index.php:18
+msgid "Files"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:47
+msgid "Content"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:126
+msgid "Files Manager"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:127
+msgid "Shortcode allows to output Files in List Table and manage Files like in admin area"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:131
+#: d:\wp-office/includes/features/files/class-files.php:242
+#: d:\wp-office/includes/features/files/class-files.php:308
+msgid "Show Files"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:135
+#: d:\wp-office/includes/features/files/class-files.php:246
+#: d:\wp-office/includes/features/files/class-files.php:312
+msgid "Own Files"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:136
+#: d:\wp-office/includes/features/files/class-files.php:247
+#: d:\wp-office/includes/features/files/class-files.php:313
+msgid "Exclude Own Files"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:141
+#: d:\wp-office/includes/features/files/class-files.php:252
+#: d:\wp-office/includes/features/files/class-files.php:318
+msgid "Default Sort By"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:144
+#: d:\wp-office/includes/features/files/class-files.php:255
+#: d:\wp-office/includes/features/files/class-files.php:321
+msgid "ID"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:145
+#: d:\wp-office/includes/features/files/class-files.php:256
+#: d:\wp-office/includes/features/files/class-files.php:322
+msgid "Filename"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:146
+#: d:\wp-office/includes/features/files/class-files.php:257
+#: d:\wp-office/includes/features/files/class-files.php:323
+#: d:\wp-office/includes/features/files/admin/upload_form.php:17
+msgid "Category"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:147
+#: d:\wp-office/includes/features/files/class-files.php:258
+#: d:\wp-office/includes/features/files/class-files.php:324
+msgid "Author"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:152
+#: d:\wp-office/includes/features/files/class-files.php:263
+#: d:\wp-office/includes/features/files/class-files.php:329
+msgid "Default Sort"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:155
+#: d:\wp-office/includes/features/files/class-files.php:266
+#: d:\wp-office/includes/features/files/class-files.php:332
+msgid "ASC"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:156
+#: d:\wp-office/includes/features/files/class-files.php:267
+#: d:\wp-office/includes/features/files/class-files.php:333
+msgid "DESC"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:164
+#: d:\wp-office/includes/features/files/class-files.php:275
+#: d:\wp-office/includes/features/files/class-files.php:341
+msgid "(without category)"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:168
+#: d:\wp-office/includes/features/files/class-files.php:279
+#: d:\wp-office/includes/features/files/class-files.php:345
+msgid "With Subcategories"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:171
+#: d:\wp-office/includes/features/files/class-files.php:180
+#: d:\wp-office/includes/features/files/class-files.php:189
+#: d:\wp-office/includes/features/files/class-files.php:198
+#: d:\wp-office/includes/features/files/class-files.php:207
+#: d:\wp-office/includes/features/files/class-files.php:216
+#: d:\wp-office/includes/features/files/class-files.php:282
+#: d:\wp-office/includes/features/files/class-files.php:348
+msgid "Yes"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:172
+#: d:\wp-office/includes/features/files/class-files.php:181
+#: d:\wp-office/includes/features/files/class-files.php:190
+#: d:\wp-office/includes/features/files/class-files.php:199
+#: d:\wp-office/includes/features/files/class-files.php:208
+#: d:\wp-office/includes/features/files/class-files.php:217
+#: d:\wp-office/includes/features/files/class-files.php:283
+#: d:\wp-office/includes/features/files/class-files.php:349
+msgid "No"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:177
+msgid "Show sort"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:186
+msgid "Show category"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:195
+msgid "Show thumbnail"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:204
+msgid "Show search field"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:213
+msgid "Show bulk actions"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:222
+#: d:\wp-office/includes/features/files/class-files.php:288
+#: d:\wp-office/includes/features/files/class-files.php:354
+msgid "Files per page"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:237
+msgid "Files List"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:238
+msgid "Shortcode allows to output Files like list"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:303
+msgid "Files Table"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:304
+msgid "Shortcode allows to output Files like table"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:783
+msgid "Upload new file"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:794
+msgid "Sorry, you have used all of your storage quota"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:795
+msgid "Sorry, you have used all of your storage quota."
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:799
+msgid "You don't have permissions to upload files"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:816
+msgid "Failed to open directory"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:833
+msgid "Failed to open output stream"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:838
+msgid "Failed to move uploaded file"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:843
+#: d:\wp-office/includes/features/files/class-files.php:847
+msgid "Failed to open input stream"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:955
+#: d:\wp-office/includes/features/files/class-files.php:1016
+msgid "View Files"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:960
+msgid "Upload Files"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:966
+#: d:\wp-office/includes/features/files/class-files.php:1021
+msgid "Edit Files"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:972
+#: d:\wp-office/includes/features/files/class-files.php:1027
+msgid "Delete Files"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:980
+#: d:\wp-office/includes/features/files/class-files.php:1036
+msgid "File Categories"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:983
+#: d:\wp-office/includes/features/files/class-files.php:1039
+msgid "Show File Categories"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:988
+msgid "Create File Categories"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:994
+#: d:\wp-office/includes/features/files/class-files.php:1044
+msgid "Edit File Categories"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:1000
+#: d:\wp-office/includes/features/files/class-files.php:1050
+msgid "Delete File Categories"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:1499
+msgid "Uploads new file"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:1500
+msgid "Download File"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:1520
+msgid "File Author"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:1633
+msgid " pcs."
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:1636
+msgid "Total"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:1644
+msgid "Size"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:1652
+msgid "Avg. Size"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:1663
+msgid " files uploaded in this month"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:1703
+msgid "Top-10 Downloaded Files"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:1717
+msgid "download"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:1717
+msgid "Download"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:1728
+msgid "Downloads"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:1734
+msgid "You don't have Downloaded Files"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:1737
+msgid "You don't have Files"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:1756
+msgid "File"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:1761
+msgid "File Category"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:1944
+msgid "Assign File Category"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:1972
+msgid "Without Category"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/class-files.php:2048
+msgid "Settings for Files feature"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/index.php:19
+msgid "Upload, assign, and manage files for your users. You can adjust file permissions for Clients and other users and Circles, organize files into Categories, and delete previously uploaded files. You can also allow your users to upload their own files."
+msgstr ""
+
+#: d:\wp-office/includes/features/files/admin/files_table_template.php:16
+msgid "Select files"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/admin/files_table_template.php:23
+msgid "Added maximum number of files"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/admin/files_table_template.php:24
+msgid "Cancel Upload"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/admin/files_table_template.php:25
+msgid "Upload Cancelled"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/admin/files_table_template.php:27
+msgid "File exceeds size limit"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/admin/files_table_template.php:28
+msgid "Delete file"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/admin/files_table_template.php:29
+msgid "File removed"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/admin/files_table_template.php:30
+#, php-format
+msgid "Drop files here %s or %s"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/admin/files_table_template.php:32
+msgid "Loading"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/admin/files_table_template.php:33
+msgid "Disallowed extensions"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/admin/files_table_template.php:34
+msgid "Max file size"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/admin/files_table_template.php:78
+msgid "Are you sure delete this File?"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/admin/files_table_template.php:93
+msgid "File was Deleted!"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/admin/upload_form.php:20
+#: d:\wp-office/includes/features/files/form/class-edit-file-category-form.php:72
+msgid "(no category)"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/admin/upload_form.php:24
+msgid "Assigns"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/admin/upload_form.php:75
+msgid "Can't upload file with same extension."
+msgstr ""
+
+#: d:\wp-office/includes/features/files/admin/upload_form.php:92
+msgid "click to edit"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/admin/upload_form.php:129
+msgid "Unknown error"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/form/class-edit-file-category-form.php:30
+msgid "Add File Category"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/form/class-edit-file-category-form.php:31
+msgid "Edit File Category"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/form/class-edit-file-category-form.php:53
+#: d:\wp-office/includes/features/files/form/class-edit-file-category-form.php:64
+msgid "must be an unique at the same parent"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/form/class-edit-file-category-form.php:58
+msgid "Folder name"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/form/class-edit-file-category-form.php:68
+msgid "Parent"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/form/class-edit-file-category-form.php:173
+msgid "Category does not exists"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/form/class-edit-file-category-form.php:200
+msgid "Category with current title already exists in current parent category"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/form/class-edit-file-category-form.php:219
+msgid "Category with current folder name already exists in current parent category"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/form/class-edit-file-category-form.php:222
+msgid "Folder name is required"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/form/class-edit-file-category-form.php:294
+msgid "File category was edited"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/form/class-edit-file-category-form.php:296
+msgid "File category was added"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/form/class-edit-file-form.php:30
+msgid "Edit file"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/form/class-edit-file-form.php:59
+msgid "Description"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/form/class-edit-file-form.php:226
+msgid "File was edited"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/list-table/class-list-table-file-categories.php:36
+msgid "Category Name"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/list-table/class-list-table-file-categories.php:39
+msgid "Folder Name"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/list-table/class-list-table-file-categories.php:438
+msgid "no category"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/list-table/class-list-table-file-categories.php:450
+msgid "Category has files and/or children categories. What action do you want to make with these files?"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/list-table/class-list-table-file-categories.php:454
+msgid "Reassign to other category"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/list-table/class-list-table-file-categories.php:480
+#: d:\wp-office/includes/features/files/list-table/class-list-table-file-categories.php:505
+msgid "File Category was Deleted!"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/list-table/class-list-table-file-categories.php:490
+msgid "Do you want to remove this File Category?"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/list-table/class-list-table-file-categories.php:797
+msgid "Category with current title already exists in this level"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/list-table/class-list-table-file-categories.php:807
+msgid "This folder is already exist in this level"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/list-table/class-list-table-file-categories.php:827
+msgid "File Category does not exists!"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/list-table/class-list-table-file-categories.php:876
+msgid "File Category was deleted!"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/list-table/class-list-table-files.php:62
+msgid "File Title(#ID)"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/list-table/class-list-table-files.php:76
+#: d:\wp-office/includes/features/files/templates/shortcode-files-table.php:36
+msgid "Date"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/list-table/class-list-table-files.php:326
+#, php-format
+msgid "%d File(s) was Deleted!"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/settings/class-setting-files.php:29
+msgid "Uploading Max File Size(Kb)"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/settings/class-setting-files.php:32
+#, php-format
+msgid ""
+"If blank - allow unlimited file size.<br />\n"
+"                        <strong>NOTE:</strong> This setting working only for %s and don't change your server settings. <br />You should change your server settings if you are experiencing issues.<br />\n"
+"                        Your server settings see <a target=\"_blank\" href=\"%s\">here</a>."
+msgstr ""
+
+#: d:\wp-office/includes/features/files/settings/class-setting-files.php:39
+msgid "Allowed File Extensions"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/settings/class-setting-files.php:42
+msgid "Limit allowed file uploads to only these file types"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/settings/class-setting-files.php:47
+msgid "Forbidden File Extensions"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/settings/class-setting-files.php:50
+msgid "Limit allowed file uploads to all but these file types"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/settings/class-setting-files.php:56
+msgid "Zip archine name"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/settings/class-setting-files.php:59
+msgid "You will download archive with that name when apply bulk action \"Archive & Download\" in files table shortcode."
+msgstr ""
+
+#: d:\wp-office/includes/features/files/templates/shortcode-files-list.php:18
+msgid "Files List Shortcode"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/templates/shortcode-files-list.php:19
+msgid "Displays Files list"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/templates/shortcode-files-table.php:18
+msgid "Files Table Shortcode"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/templates/shortcode-files-table.php:19
+msgid "Displays Files Table"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/templates/shortcode-files-table.php:22
+msgid "Bulk actions"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/templates/shortcode-files-table.php:24
+msgid "Archive & Download"
+msgstr ""
+
+#: d:\wp-office/includes/features/files/templates/shortcode-files-table.php:33
+msgid "Filesize"
+msgstr ""
+
+#: d:\wp-office/includes/features/frontend-templates/class-frontend-templates.php:78
+msgid "Here you can manage frontend template"
+msgstr ""
+
+#: d:\wp-office/includes/features/frontend-templates/class-frontend-templates.php:89
+msgid "Save Template"
+msgstr ""
+
+#: d:\wp-office/includes/features/frontend-templates/class-frontend-templates.php:102
+msgid "Copy Template to Theme"
+msgstr ""
+
+#: d:\wp-office/includes/features/frontend-templates/class-frontend-templates.php:114
+msgid "Delete Template from Theme"
+msgstr ""
+
+#: d:\wp-office/includes/features/frontend-templates/class-frontend-templates.php:135
+#: d:\wp-office/includes/features/frontend-templates/list-table/class-list-table-frontend-templates.php:40
+#: d:\wp-office/includes/features/frontend-templates/list-table/class-list-table-frontend-templates.php:90
+msgid "Template Name is empty"
+msgstr ""
+
+#: d:\wp-office/includes/features/frontend-templates/class-frontend-templates.php:147
+#: d:\wp-office/includes/features/frontend-templates/list-table/class-list-table-frontend-templates.php:101
+msgid "Template does not exist in theme"
+msgstr ""
+
+#: d:\wp-office/includes/features/frontend-templates/class-frontend-templates.php:157
+msgid "Can not rewrite Template. Please check Theme folder permisions"
+msgstr ""
+
+#: d:\wp-office/includes/features/frontend-templates/class-frontend-templates.php:162
+#: d:\wp-office/includes/features/frontend-templates/list-table/class-list-table-frontend-templates.php:115
+msgid "Template removed from Theme successfully"
+msgstr ""
+
+#: d:\wp-office/includes/features/frontend-templates/list-table/class-list-table-frontend-templates.php:15
+msgid "Frontend Template"
+msgstr ""
+
+#: d:\wp-office/includes/features/frontend-templates/list-table/class-list-table-frontend-templates.php:28
+msgid "Template Name"
+msgstr ""
+
+#: d:\wp-office/includes/features/frontend-templates/list-table/class-list-table-frontend-templates.php:51
+msgid "Template already in theme"
+msgstr ""
+
+#: d:\wp-office/includes/features/frontend-templates/list-table/class-list-table-frontend-templates.php:75
+msgid "Can not copy Template to Theme. Please check Theme folder permisions"
+msgstr ""
+
+#: d:\wp-office/includes/features/frontend-templates/list-table/class-list-table-frontend-templates.php:81
+msgid "Template copied to Theme successfully"
+msgstr ""
+
+#: d:\wp-office/includes/features/frontend-templates/list-table/class-list-table-frontend-templates.php:109
+msgid "Can not remove Template from Theme. Please check Theme folder permisions"
+msgstr ""
+
+#: d:\wp-office/includes/features/frontend-templates/list-table/class-list-table-frontend-templates.php:214
+msgid "Are you sure you want to delete this Template from Theme Directory?"
+msgstr ""
+
+#: d:\wp-office/includes/features/frontend-templates/list-table/class-list-table-frontend-templates.php:260
+msgid "View Template"
+msgstr ""
+
+#: d:\wp-office/includes/features/frontend-templates/list-table/class-list-table-frontend-templates.php:261
+msgid "Copy to Theme Directory"
+msgstr ""
+
+#: d:\wp-office/includes/features/frontend-templates/list-table/class-list-table-frontend-templates.php:262
+msgid "Edit Template"
+msgstr ""
+
+#: d:\wp-office/includes/features/frontend-templates/list-table/class-list-table-frontend-templates.php:263
+msgid "Delete Template from Theme Directory"
+msgstr ""
+
+#: d:\wp-office/includes/features/frontend-templates/list-table/class-list-table-frontend-templates.php:266
+msgid "Template in Plugin"
+msgstr ""
+
+#: d:\wp-office/includes/features/frontend-templates/list-table/class-list-table-frontend-templates.php:266
+msgid "Template in Theme"
+msgstr ""
+
+#: d:\wp-office/includes/features/frontend-templates/list-table/class-list-table-frontend-templates.php:470
+msgid "Email Template(s) was deleted!"
+msgstr ""
+
+#: d:\wp-office/includes/features/members-pending/class-members-pending.php:15
+#: d:\wp-office/includes/features/members-pending/class-members-pending.php:89
+msgid "Pending"
+msgstr ""
+
+#: d:\wp-office/includes/features/members-pending/class-members-pending.php:50
+msgid "Automatically approve who register using form"
+msgstr ""
+
+#: d:\wp-office/includes/features/members-pending/class-members-pending.php:119
+#: d:\wp-office/includes/features/members-pending/class-members-pending.php:142
+msgid "Sorry, but your account are not approved. Please wait."
+msgstr ""
+
+#: d:\wp-office/includes/features/members-pending/admin/members_pending.php:22
+msgid " - Cancelled"
+msgstr ""
+
+#: d:\wp-office/includes/features/members-pending/admin/members_pending.php:23
+msgid " - Completed"
+msgstr ""
+
+#: d:\wp-office/includes/features/members-pending/admin/members_pending.php:84
+msgid "Are you sure approve this Member?"
+msgstr ""
+
+#: d:\wp-office/includes/features/members-pending/admin/members_pending.php:99
+msgid "Member was Approved!"
+msgstr ""
+
+#: d:\wp-office/includes/features/members-pending/list-table/class-list-table-members-pending.php:63
+#: d:\wp-office/includes/features/members-pending/list-table/class-list-table-members-pending.php:78
+#: d:\wp-office/includes/features/members-pending/list-table/class-list-table-members-pending.php:120
+msgid "Approve"
+msgstr ""
+
+#: d:\wp-office/includes/features/members-pending/list-table/class-list-table-members-pending.php:95
+msgid "Username (#ID)"
+msgstr ""
+
+#: d:\wp-office/includes/features/members-pending/list-table/class-list-table-members-pending.php:99
+msgid "E-mail"
+msgstr ""
+
+#: d:\wp-office/includes/features/members-pending/list-table/class-list-table-members-pending.php:104
+msgid "Creation Date"
+msgstr ""
+
+#: d:\wp-office/includes/features/members-pending/list-table/class-list-table-members-pending.php:350
+msgid "Member(s) was Approved!"
+msgstr ""
+
+#: d:\wp-office/includes/features/members-pending/list-table/class-list-table-members-pending.php:391
+msgid "Member(s) was Deleted!"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/class-messages.php:18
+#: d:\wp-office/includes/features/messages/class-messages.php:68
+#: d:\wp-office/includes/features/messages/class-messages.php:287
+#: d:\wp-office/includes/features/messages/class-messages.php:314
+#: d:\wp-office/includes/features/messages/index.php:18
+msgid "Messages"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/class-messages.php:33
+msgid "Own Messages"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/class-messages.php:42
+msgid "New message"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/class-messages.php:51
+#: d:\wp-office/includes/features/messages/class-messages.php:91
+msgid "Primary Member"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/class-messages.php:52
+msgid "Caps View Selected Roles Users"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/class-messages.php:83
+msgid "Messages Manager"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/class-messages.php:84
+msgid "Shortcode allows to view all available messages and manage them"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/class-messages.php:92
+msgid "Last Message"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/class-messages.php:133
+msgid "Messages per page"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/class-messages.php:147
+msgid "Personal Message Box"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/class-messages.php:148
+msgid "Shortcode allows to output message addressed to current member and send messages"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/class-messages.php:158
+msgid "You don't have capabilitites to see Messages List"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/class-messages.php:187
+msgid "Are you sure you want to delete this Message?"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/class-messages.php:188
+msgid "Message was Deleted!"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/class-messages.php:213
+msgid "You don't have permission to send messages"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/class-messages.php:221
+msgid "Message is required"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/class-messages.php:225
+msgid "Member does not exists"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/class-messages.php:244
+msgid "Message was sent"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/class-messages.php:252
+msgid "Message does not exists"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/class-messages.php:272
+msgid "You don't have permission to this action"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/class-messages.php:280
+msgid "Wrong Message ID"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/class-messages.php:290
+#: d:\wp-office/includes/features/messages/class-messages.php:317
+msgid "View Messages"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/class-messages.php:295
+#: d:\wp-office/includes/features/messages/class-messages.php:322
+msgid "Send Messages"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/class-messages.php:301
+#: d:\wp-office/includes/features/messages/class-messages.php:328
+msgid "Delete Messages"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/class-messages.php:741
+msgid "New Private Messages"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/class-messages.php:748
+#, php-format
+msgid "In %s branch"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/class-messages.php:756
+msgid "You don't have New Messages"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/class-messages.php:824
+msgid "Settings for Private Messages feature"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/index.php:19
+msgid "Allow users to send and receive private messages. Users can be limited to only send private messages to some users, or optionally they can be allowed to send messages to any users in the installation."
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/admin/messages_table_template.php:69
+msgid "Are you sure you want to delete this Messages Branch?"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/admin/messages_table_template.php:83
+msgid "Messages Branch was Deleted!"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/form/class-create-message-branch-form.php:19
+msgid "Assign Members"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/form/class-create-message-branch-form.php:30
+#: d:\wp-office/includes/features/messages/list-table/class-list-table-messages.php:34
+msgid "Message"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/form/class-create-message-branch-form.php:46
+msgid "You can not send message to someone from selected members"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/form/class-create-message-branch-form.php:92
+msgid "Please assign members"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/form/class-create-message-branch-form.php:101
+#: d:\wp-office/includes/features/messages/form/class-message-box-form.php:202
+#: d:\wp-office/includes/features/messages/form/class-own-message-box.php:21
+#: d:\wp-office/includes/features/messages/templates/messages_box/messages_box.php:18
+msgid "Send message"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/form/class-message-box-form.php:152
+msgid "Type your message here"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/form/class-message-box-form.php:165
+msgid "Member ID is empty"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/form/class-message-box-form.php:377
+#: d:\wp-office/includes/features/messages/form/class-own-message-box.php:117
+#, php-format
+msgid "Messages for %s"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/list-table/class-list-table-messages.php:73
+msgid "New Message"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/list-table/class-list-table-messages.php:82
+msgid "Open Messages"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/list-table/class-list-table-messages.php:83
+msgid "Delete Messages Branch"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/list-table/class-list-table-messages.php:289
+#: d:\wp-office/includes/features/messages/list-table/class-list-table-messages.php:297
+msgid "Wrong Message Branch"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/settings/class-setting-messages.php:28
+msgid "NEW messages first"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/settings/class-setting-messages.php:32
+msgid "show new messages first in the chains"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/settings/class-setting-messages.php:40
+msgid "Member names in chain"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/settings/class-setting-messages.php:44
+msgid "member's name displaying in the message's chain"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/settings/class-setting-messages.php:46
+msgid "User Login"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/settings/class-setting-messages.php:47
+msgid "Display Name"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/templates/messages_box/dialogue.php:3
+msgid "Own messages box dialogue"
+msgstr ""
+
+#: d:\wp-office/includes/features/messages/templates/messages_box/messages_box.php:3
+msgid "Own messages box"
+msgstr ""
+
+#: d:\wp-office/includes/form/class-member-form.php:105
+#: d:\wp-office/includes/form/class-view-member-form.php:48
+msgid "Avatar"
+msgstr ""
+
+#: d:\wp-office/includes/form/class-member-form.php:108
+msgid "By default Gravatar or WordPress Default Avatars is used."
+msgstr ""
+
+#: d:\wp-office/includes/form/class-member-form.php:113
+#: d:\wp-office/includes/form/class-view-member-form.php:55
+msgid "Username"
+msgstr ""
+
+#: d:\wp-office/includes/form/class-member-form.php:124
+msgid "(can't be changed)"
+msgstr ""
+
+#: d:\wp-office/includes/form/class-member-form.php:128
+#: d:\wp-office/includes/form/class-view-member-form.php:65
+msgid "Email"
+msgstr ""
+
+#: d:\wp-office/includes/form/class-member-form.php:143
+#: d:\wp-office/includes/form/class-view-member-form.php:75
+msgid "First Name"
+msgstr ""
+
+#: d:\wp-office/includes/form/class-member-form.php:153
+#: d:\wp-office/includes/form/class-view-member-form.php:85
+msgid "Last Name"
+msgstr ""
+
+#: d:\wp-office/includes/form/class-member-form.php:163
+msgid "Password"
+msgstr ""
+
+#: d:\wp-office/includes/form/class-member-form.php:348
+msgid "Send the new user an email about their account."
+msgstr ""
+
+#: d:\wp-office/includes/form/class-member-form.php:358
+msgid "Send member an email about their account was updated."
+msgstr ""
+
+#: d:\wp-office/includes/form/class-member-form.php:374
+msgid "Wrong Member role!"
+msgstr ""
+
+#: d:\wp-office/includes/form/class-member-form.php:451
+msgid "Member was Created!"
+msgstr ""
+
+#: d:\wp-office/includes/form/class-member-form.php:451
+msgid "Member was Updated!"
+msgstr ""
+
+#: d:\wp-office/includes/form/class-office-page-category-form.php:36
+msgid "Edit Office Page Category"
+msgstr ""
+
+#: d:\wp-office/includes/form/class-office-page-category-form.php:36
+msgid "Add Office Page Category"
+msgstr ""
+
+#: d:\wp-office/includes/form/class-office-page-category-form.php:58
+msgid "Category Title must be unique"
+msgstr ""
+
+#: d:\wp-office/includes/form/class-office-page-category-form.php:210
+#: d:\wp-office/includes/form/class-office-page-category-form.php:232
+msgid "Office Page Category already exists"
+msgstr ""
+
+#: d:\wp-office/includes/form/class-office-page-category-form.php:258
+msgid "Office Page Category was edited"
+msgstr ""
+
+#: d:\wp-office/includes/form/class-office-page-category-form.php:260
+msgid "Office Page Category was added"
+msgstr ""
+
+#: d:\wp-office/includes/form/class-profile-form.php:28
+msgid "Add new Profile"
+msgstr ""
+
+#: d:\wp-office/includes/form/class-profile-form.php:49
+msgid "Profile Title must be unique"
+msgstr ""
+
+#: d:\wp-office/includes/form/class-profile-form.php:182
+msgid "Profile does not exists"
+msgstr ""
+
+#: d:\wp-office/includes/form/class-profile-form.php:257
+msgid "Profile was updated"
+msgstr ""
+
+#: d:\wp-office/includes/form/class-profile-form.php:259
+msgid "Profile was created"
+msgstr ""
+
+#: d:\wp-office/includes/form/class-profile-form.php:262
+msgid "Title is required"
+msgstr ""
+
+#: d:\wp-office/includes/form/class-view-member-form.php:35
+#, php-format
+msgid "%s Profile"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-email-notifications.php:15
+msgid "Email Notification"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-email-notifications.php:103
+#: d:\wp-office/includes/list-table/class-list-table-email-notifications.php:162
+msgid "Body"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-email-notifications.php:201
+msgid "Are you sure delete this Template?"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-email-notifications.php:216
+msgid "Template was Deleted!"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-hubs.php:34
+#: d:\wp-office/includes/list-table/class-list-table-hubs.php:136
+#: d:\wp-office/includes/list-table/class-list-table-members-archive.php:64
+#: d:\wp-office/includes/list-table/class-list-table-members-archive.php:79
+#: d:\wp-office/includes/list-table/class-list-table-members-archive.php:121
+#: d:\wp-office/includes/list-table/class-list-table-pages.php:33
+#: d:\wp-office/includes/list-table/class-list-table-pages.php:140
+msgid "Restore"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-hubs.php:35
+#: d:\wp-office/includes/list-table/class-list-table-pages.php:34
+msgid "Move To Trash"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-hubs.php:44
+#: d:\wp-office/includes/list-table/class-list-table-pages.php:43
+#: d:\wp-office/includes/list-table/class-list-table-profiles.php:39
+msgid "Title(#ID)"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-hubs.php:48
+msgid "Priority"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-hubs.php:135
+#: d:\wp-office/includes/list-table/class-list-table-pages.php:139
+msgid "Trash"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-hubs.php:138
+#: d:\wp-office/includes/list-table/class-list-table-pages.php:142
+msgid "Preview"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-hubs.php:139
+msgid "Set Default"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-hubs.php:144
+msgid "This HUB page will be uses for Members if no one HUB page assigned for them."
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-hubs.php:144
+msgid "(Default)"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-hubs.php:511
+#: d:\wp-office/includes/list-table/class-list-table-hubs.php:517
+msgid "HUB(s) was moved to trash!"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-hubs.php:513
+msgid "Cannot move to trash already trashed HUB(s)"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-hubs.php:547
+#: d:\wp-office/includes/list-table/class-list-table-hubs.php:553
+msgid "HUB(s) was restored!"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-hubs.php:549
+msgid "Cannot restore published/drafted HUB(s)"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-hubs.php:583
+#: d:\wp-office/includes/list-table/class-list-table-hubs.php:589
+msgid "HUB(s) was Deleted!"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-hubs.php:585
+msgid "Cannot delete published/drafted HUB(s)"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-hubs.php:601
+msgid "HUB was set as Default!"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-hubs.php:625
+msgid "Priority was Changed!"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-members-archive.php:351
+msgid "Member(s) was Restored!"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-members.php:404
+msgid "Member(s) was Archived!"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-office-pages-categories.php:38
+msgid "Category Name(#ID)"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-office-pages-categories.php:42
+#: d:\wp-office/includes/list-table/class-list-table-pages.php:19
+msgid "Pages"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-office-pages-categories.php:298
+msgid "Page Category(ies) was Deleted!"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-office-pages-categories.php:300
+msgid "Cannot delete Page Category(ies)"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-pages.php:52
+#: d:\wp-office/includes/list-table/class-list-table-pages.php:125
+msgid "Status"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-pages.php:527
+msgid "Page(s) was moved to trash!"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-pages.php:529
+msgid "Cannot move to trash already trashed Page(s)"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-pages.php:561
+msgid "Page(s) was restored!"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-pages.php:563
+msgid "Cannot restore published/drafted Page(s)"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-pages.php:595
+msgid "Page(s) was Deleted!"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-pages.php:597
+msgid "Cannot delete published/drafted Page(s)"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-profiles.php:230
+#: d:\wp-office/includes/list-table/class-list-table-profiles.php:236
+msgid "Profile(s) was Deleted!"
+msgstr ""
+
+#: d:\wp-office/includes/list-table/class-list-table-profiles.php:232
+msgid "Cannot delete published/drafted Profile(s)"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-common.php:26
+msgid "Enable No Conflicts Mode"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-common.php:29
+msgid "With this set to \"Yes\", all CSS and JS from other plugins will be disabled in WP-Office admin pages. Turn this setting on if you believe a conflict is occurring in your installation that is causing problems with WP-Office."
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-common.php:37
+msgid "Stop the Clouds"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-common.php:40
+msgid "If you have loading issues, you can turn off the animated clouds in the plugin header"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-common.php:41
+msgid "With this set to Yes, the clouds in the plugin header will no longer be animated"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-contact-info.php:30
+msgid "Contact Name"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-contact-info.php:37
+msgid "Mailing Address"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-contact-info.php:45
+msgid "Website"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-contact-info.php:53
+msgid "Contact Email"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-contact-info.php:61
+msgid "Contact Phone"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-custom-style.php:26
+#, php-format
+msgid "Disable Default Frontend %s CSS"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-custom-style.php:29
+msgid "Plugin frontend templates will use your current Theme styles if this option set to disable"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-custom-style.php:37
+msgid "Custom Frontend CSS"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-custom-style.php:40
+msgid "This styles will be enqueue at any frontend page of your site"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-email-notifications.php:55
+msgid "Subject"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-email-notifications.php:58
+msgid "Email Notification Subject"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-email-notifications.php:69
+msgid "Sending Rules"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-email-notifications.php:87
+msgid "Update Notification"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-email-notifications.php:87
+msgid "Create Notification"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-email-notifications.php:156
+msgid "Empty Rules"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-email-notifications.php:272
+msgid "Email Notification Updated!"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-email-notifications.php:278
+msgid "All fields are required!"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-pages.php:29
+msgid "Main Office Page"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-pages.php:38
+msgid "Office Page Endpoints"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-pages.php:85
+msgid "Are you sure to create WP page for this Slug?"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-pages.php:113
+msgid "Page was Create!"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-pages.php:134
+msgid "Are you sure to delete Page?"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-pages.php:240
+msgid "Create WP page for Slug"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-pages.php:289
+msgid "Pages was saved!"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-setting-pages.php:324
+msgid "Something Wrong!"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-settings-forms.php:36
+msgid "Update Settings"
+msgstr ""
+
+#: d:\wp-office/includes/settings/class-settings-forms.php:162
+msgid "Field must be Email"
+msgstr ""
+
+#: d:\wp-office/templates/login-form.php:19
+msgid "Displays Login Form fields"
+msgstr ""
+
+#: d:\wp-office/templates/login-form.php:52
+#: d:\wp-office/templates/login-form.php:55
+msgid "Username or Email"
+msgstr ""
+
+#: d:\wp-office/templates/login-form.php:72
+msgid "Remember your password?"
+msgstr ""
+
+#: d:\wp-office/templates/login-form.php:83
+msgid "New password"
+msgstr ""
+
+#: d:\wp-office/templates/login-form.php:112
+#: d:\wp-office/templates/login-form.php:115
+msgid "Username or email"
+msgstr ""
+
+#: d:\wp-office/templates/login-form.php:147
+msgid "Remember me"
+msgstr ""
+
+#: d:\wp-office/templates/login-form.php:153
+msgid "Lost your password?"
+msgstr ""
+
+#: d:\wp-office/templates/pages-list.php:18
+msgid "Pages List"
+msgstr ""
+
+#: d:\wp-office/templates/pages-list.php:19
+msgid "Displays Office Pages in List style"
+msgstr ""
+
+#: d:\wp-office/templates/pagination.php:19
+msgid "Pagination"
+msgstr ""
+
+#: d:\wp-office/templates/pagination.php:20
+msgid "Displays Pagination"
+msgstr ""
+
+#: d:\wp-office/templates/pagination.php:25
+msgid "Previous"
+msgstr ""
+
+#: d:\wp-office/templates/pagination.php:39
+msgid "Next"
+msgstr ""
+
+#: d:\wp-office/templates/profile-form.php:19
+#: d:\wp-office/templates/registration-form.php:19
+msgid "Displays Member Profile Form fields"
+msgstr ""
+
+#: d:\wp-office/templates/registration-form.php:109
+msgid "Submit Registration"
+msgstr ""
+
+#: d:\wp-office/templates/search.php:20
+msgid "Displays Search Line"
+msgstr ""
+

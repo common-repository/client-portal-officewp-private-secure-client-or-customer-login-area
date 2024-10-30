@@ -1,0 +1,320 @@
+.wpo_button {
+    display: block;
+    position: relative;
+    float:left;
+    /*max-width: 200px;*/
+    height: 32px;
+    margin: 0;
+    padding: 0 10px 0 0;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    cursor: pointer;
+    text-transform:uppercase;
+    font-size: 13px;
+    font-weight: bold !important;
+    border-radius: 2px;
+    line-height: 30px;
+    box-shadow: inset 0 1px 0 rgba(255,255,255,.5),0 1px 1px rgba(0,0,0,.15);
+
+    text-shadow: 0 1px 1px #fff;
+    color: #666;
+    border: 1px solid #d4d4d4;
+    background-color: #eeeeee;
+    background: -webkit-gradient(linear,50% 0,50% 100%,color-stop(0%,#fbfbfb),color-stop(100%,#e1e1e1));
+    background: -webkit-linear-gradient(top,#fbfbfb,#e1e1e1);
+    background: linear-gradient(to bottom,#fbfbfb,#e1e1e1);
+
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.wpo_button:before {
+    content: ' ';
+    display: block;
+    float:left;
+    width:32px;
+    height: 100%;
+    padding: 0;
+    margin: 0 13px 0 0;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border-right: 1px solid rgba(33, 33, 33, 0.2);
+    box-shadow: 1px 0 0 rgba(255, 255, 255, 0.2);
+    font: 400 24px dashicons;
+    line-height: 32px;
+    text-align: center;
+    background: rgba(33, 33, 33, 0.15);
+}
+
+.wpo_button:after {
+    content: ' ';
+    display: none;
+    float:right;
+    width:32px;
+    height: 100%;
+    padding: 0;
+    margin: 0 0 0 13px;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border-left: 1px solid rgba(33, 33, 33, 0.2);
+    box-shadow: -1px 0 0 rgba(255, 255, 255, 0.2);
+    font: 400 24px dashicons;
+    line-height: 32px;
+    text-align: center;
+    background: rgba(33, 33, 33, 0.15);
+}
+
+/*for buttons without icons*/
+.wpo_button.wpo_text_button {
+    padding: 0 10px;
+}
+
+.wpo_button.wpo_text_button:after,
+.wpo_button.wpo_text_button:before {
+    display: none;
+}
+
+/*for right orientation buttons*/
+.wpo_button.wpo_button_right {
+    padding: 0 0 0 10px;
+}
+.wpo_button.wpo_button_right:before {
+    display: none;
+}
+.wpo_button.wpo_button_right:after {
+    display: block;
+}
+
+.wpo_button:not(.wpo_disabled):focus,
+.wpo_button:not(.wpo_disabled):hover {
+    background: -webkit-gradient(linear,50% 0,50% 100%,color-stop(0%,#fff),color-stop(100%,#dcdcdc));
+    background: -webkit-linear-gradient(top,#fff,#dcdcdc);
+    background: linear-gradient(to bottom,#fff,#dcdcdc);;
+}
+
+.wpo_button:not(.wpo_disabled):active {
+    transition: all 0s;
+    color: #bbb;
+    background: #eee;
+    box-shadow: inset 0 1px 3px rgba(0,0,0,.3),0 1px 0 #fff;
+    text-shadow: 0 1px 0 rgba( 255, 255, 255, .4 );
+}
+
+.wpo_button.wpo_disabled {
+    cursor: default !important;
+    opacity: 0.4;
+}
+
+.button.wpo_disabled {
+    cursor: default !important;
+    opacity: 0.4;
+}
+
+
+/*skins for buttons*/
+.wpo_button.wpo_primary_button {
+    text-shadow: 0 -1px 1px rgba( 0, 40, 50, .35);
+    color: #fff;
+    border-color: #007998;
+    background-color: #00a1cb;
+    background: -webkit-gradient(linear,50% 0,50% 100%,color-stop(0%,#00b5e5),color-stop(100%,#008db2));
+    background: -webkit-linear-gradient(top,#00b5e5,#008db2);
+    background: linear-gradient(to bottom,#00b5e5,#008db2);
+}
+
+.wpo_button.wpo_primary_button:not(.wpo_disabled):focus,
+.wpo_button.wpo_primary_button:not(.wpo_disabled):hover {
+    background: -webkit-gradient(linear,50% 0,50% 100%,color-stop(0%,#00c9fe),color-stop(100%,#008db2));
+    background: -webkit-linear-gradient(top,#00c9fe,#008db2);
+    background: linear-gradient(to bottom,#00c9fe,#008db2);
+}
+
+.wpo_button.wpo_primary_button:not(.wpo_disabled):active {
+    color: #005065;
+    background: #1495b7;
+}
+
+
+.wpo_button.wpo_layer_button {
+    text-shadow: 0 -1px 1px rgba(19,28,0,.35);
+    color: #fff;
+    border-color: #5a8200;
+    background-color: #7db500;
+    background: -webkit-gradient(linear,50% 0,50% 100%,color-stop(0%,#8fcf00),color-stop(100%,#6b9c00));
+    background: -webkit-linear-gradient(top,#8fcf00,#6b9c00);
+    background: linear-gradient(to bottom,#8fcf00,#6b9c00);
+}
+
+.wpo_button.wpo_layer_button:not(.wpo_disabled):focus,
+.wpo_button.wpo_layer_button:not(.wpo_disabled):hover {
+    background: -webkit-gradient(linear,50% 0,50% 100%,color-stop(0%,#a0e800),color-stop(100%,#6b9c00));
+    background: -webkit-linear-gradient(top,#a0e800,#6b9c00);
+    background: linear-gradient(to bottom,#a0e800,#6b9c00);
+}
+
+.wpo_button.wpo_layer_button:not(.wpo_disabled):active {
+    color: #374f00;
+    background: #76a312;
+}
+
+
+.wpo_button_loading {
+    display: none;
+    float:left;
+    width:32px;
+    height:32px;
+    padding: 3px 0 0 0;
+    margin: 0 13px 0 0;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border-right: 1px solid rgba(33, 33, 33, 0.2);
+    box-shadow: 1px 0 0 rgba(255, 255, 255, 0.2);
+    background: rgba(33, 33, 33, 0.15);
+}
+
+/*loading for right orientation button*/
+.wpo_button_right .wpo_button_loading {
+    display: none;
+    float:right;
+    margin: 0 0 0 13px;
+    border-right: none;
+    border-left: 1px solid rgba(33, 33, 33, 0.2);
+    box-shadow: -1px 0 0 rgba(255, 255, 255, 0.2);
+}
+
+/*loading for text button*/
+.wpo_text_button .wpo_button_loading {
+    display: none;
+    position: absolute;
+    float: none;
+    top:50%;
+    left:50%;
+    width:26px;
+    height:32px;
+    padding: 0;
+    margin: -13px 0 0 -13px;
+    background: transparent;
+    border: none;
+    box-shadow: none;
+}
+
+/*hide images when button load*/
+.wpo_button.wpo_ajax_button[data-loading="1"]:after,
+.wpo_button.wpo_ajax_button[data-loading="1"]:before {
+    display: none;
+}
+
+/*hide text for text button when button load*/
+.wpo_button.wpo_text_button.wpo_ajax_button[data-loading="1"] {
+    color: rgba( 0, 0, 0, 0 );
+    text-shadow: none;
+}
+
+/*show loading in button*/
+.wpo_button.wpo_ajax_button[data-loading="1"] .wpo_button_loading {
+    display: block;
+}
+
+
+.wpo_button .dashicons {
+    line-height: 30px;
+}
+
+
+
+/*button images*/
+.wpo_button.wpo_button_create:before {
+    content: '\f132';
+}
+.wpo_button.wpo_download:before {
+    content: '\f316';
+}
+.wpo_button.wpo_upload:before {
+    content: '\f317';
+}
+.wpo_button.wpo_assign_button:before {
+    line-height: 30px;
+    content: '\f103';
+}
+.wpo_button.wpo_toggle_password:before {
+    content: '\f177';
+}
+.wpo_button.wpo_toggle_password.wpo_password_visible:before {
+    content: '\f530';
+}
+
+/*.wpo_button.wpo_save_member:before {
+    line-height: 28px;
+    content: '\f133';
+}
+.wpo_button.wpo_update_member:before {
+    line-height: 30px;
+    content: '\f119';
+}*/
+
+.wpo_button.wpo_button_submit:before {
+    line-height: 30px;
+    content: '\f147';
+}
+
+
+.wpo_button.wpo_button_create {
+    margin: 0 10px 0 4px;
+}
+
+@media (max-width: 782px) {
+    .wpo_button.wpo_button_create {
+        margin: 0 4px 10px 4px;
+    }
+}
+
+/* frontend disable CSS button block*/
+.wpo_default_button_wrapper {
+    display: block;
+    position: relative;
+    float:left;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+
+/*hide text for text button when button load*/
+.wpo_default_button_wrapper .wpo_ajax_button[data-loading="1"] {
+    color: transparent !important;
+    text-shadow: none;
+}
+
+/*show loading in button*/
+.wpo_default_button_wrapper .wpo_ajax_button[data-loading="1"] ~ .wpo_button_loading {
+    display: block;
+}
+
+/*loading for text button*/
+.wpo_default_button_wrapper .wpo_button_loading {
+    display: none;
+    position: absolute;
+    float: none;
+    top:50%;
+    left:50%;
+    width:26px;
+    height:32px;
+    padding: 0;
+    margin: -13px 0 0 -13px;
+    background: transparent;
+    border: none;
+    box-shadow: none;
+}
+
+.wpo_login_form .wpo_default_button_wrapper {
+    float: none;
+}

@@ -1,0 +1,343 @@
+.wpo_frontend_form {
+    display: block;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    background: transparent;
+    border: none;
+    color:inherit;
+}
+
+.wpo_frontend_form .wpo_form_row {
+    display: block;
+    width:100%;
+    float:left;
+    margin: 0 0 20px 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    background: transparent;
+    color: inherit;
+}
+
+.wpo_frontend_form .wpo_form_row .wpo_row_label {
+    width:35%;
+    float:left;
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    background: transparent;
+    color: inherit;
+}
+
+.wpo_frontend_form .wpo_form_row .wpo_row_label label {
+    float: left;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background: transparent;
+    color: inherit;
+    border: none;
+}
+
+.wpo_frontend_form .wpo_form_row .wpo_row_label label .required {
+    color:#f04040;
+}
+
+.wpo_frontend_form .wpo_form_row .wpo_row_field {
+    width:65%;
+    float:left;
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    background: transparent;
+    color: inherit;
+}
+
+.wpo_frontend_form .wpo_form_row .wpo_row_field .wpo_validation_wrapper {
+    float:left;
+    width:100%;
+    height: 0;
+    visibility: hidden;
+    margin: 3px 0 7px 0;
+    padding: 0;
+    color: #f04040;
+    font-size: 85%;
+    font-style: italic;
+    -webkit-transition: height 0.2s ease-out;
+    -moz-transition: height 0.2s ease-out;
+    -o-transition: height 0.2s ease-out;
+    transition: height 0.2s ease-out;
+}
+
+.wpo_frontend_form .wpo_form_row .wpo_row_field .wpo_validation_wrapper > * {
+    display: none;
+}
+
+.wpo_frontend_form .wpo_form_row .wpo_row_field.wpo_invalid_field .wpo_validation_wrapper {
+    height: 30px;
+    visibility: visible;
+    -webkit-transition: height 0.2s ease-in;
+    -moz-transition: height 0.2s ease-in;
+    -o-transition: height 0.2s ease-in;
+    transition: height 0.2s ease-in;
+}
+
+
+.wpo_frontend_form .wpo_validation_info {
+    float: left;
+    width: 100%;
+}
+
+@media (max-width: 570px) {
+    .wpo_frontend_form {
+        min-width: 350px;
+    }
+
+    .wpo_frontend_form .wpo_form_row .wpo_row_label {
+        width:100% !important;
+        margin: 0 0 7px 0;
+    }
+
+    .wpo_frontend_form .wpo_form_row .wpo_row_label label:after {
+        content: ":";
+    }
+
+    .wpo_frontend_form .wpo_form_row .wpo_row_field {
+        width:100% !important;
+        margin: 0 0 7px 0;
+    }
+}
+
+.wpo_frontend_form.wpo_mobile_form {
+    min-width: 350px;
+}
+
+.wpo_frontend_form.wpo_mobile_form .wpo_form_row .wpo_row_label {
+    width:100% !important;
+    margin: 0 0 7px 0;
+}
+
+.wpo_frontend_form.wpo_mobile_form .wpo_form_row .wpo_row_label label:after {
+    content: ":";
+}
+
+.wpo_frontend_form.wpo_mobile_form .wpo_form_row .wpo_row_field {
+    width:100% !important;
+    margin: 0 0 7px 0;
+}
+
+
+.wpo_frontend_form .wpo_form_row .wpo_row_field input[type="text"],
+.wpo_frontend_form .wpo_form_row .wpo_row_field input[type="email"],
+.wpo_frontend_form .wpo_form_row .wpo_row_field input[type="password"],
+.wpo_frontend_form .wpo_form_row .wpo_row_field input[type="number"],
+.wpo_frontend_form .wpo_form_row .wpo_row_field textarea,
+.wpo_frontend_form .wpo_form_row .wpo_row_field select {
+    width:100%;
+    float:left;
+    margin: 0;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+
+.wpo_frontend_form .wpo_form_row .wpo_row_field.wpo_invalid_field input[type="text"],
+.wpo_frontend_form .wpo_form_row .wpo_row_field.wpo_invalid_field input[type="email"],
+.wpo_frontend_form .wpo_form_row .wpo_row_field.wpo_invalid_field input[type="password"],
+.wpo_frontend_form .wpo_form_row .wpo_row_field.wpo_invalid_field input[type="number"],
+.wpo_frontend_form .wpo_form_row .wpo_row_field.wpo_invalid_field textarea,
+.wpo_frontend_form .wpo_form_row .wpo_row_field.wpo_invalid_field select {
+    border-color: #f04040 !important;
+}
+
+
+
+
+
+
+
+
+/*individual login form classic style*/
+.wpo_login_form.wpo_frontend_form {
+    min-width: 350px;
+    max-width: 400px;
+    float: none;
+    margin: 0 auto;
+}
+
+.wpo_login_form.wpo_frontend_form input[type="submit"] {
+    float:right;
+}
+
+.wpo_login_form.wpo_frontend_form .wpo_form_row .wpo_row_label {
+    width:100% !important;
+    margin: 0 0 7px 0;
+}
+
+.wpo_login_form.wpo_frontend_form .wpo_form_row .wpo_row_label label:after {
+    content: ":";
+}
+
+.wpo_login_form.wpo_frontend_form .wpo_form_row .wpo_row_field {
+    width:100% !important;
+    margin: 0 0 7px 0;
+}
+
+.wpo_login_form.wpo_frontend_form input::-webkit-input-placeholder {
+    visibility: hidden;
+}
+.wpo_login_form.wpo_frontend_form input::-moz-placeholder {
+    visibility: hidden;
+}
+.wpo_login_form.wpo_frontend_form input:-moz-placeholder {
+    visibility: hidden;
+}
+.wpo_login_form.wpo_frontend_form input:-ms-input-placeholder {
+    visibility: hidden;
+}
+.wpo_login_form.wpo_frontend_form input::-ms-input-placeholder {
+    visibility: hidden;
+}
+
+.wpo_login_form.wpo_designed.wpo_frontend_form {
+    background: linear-gradient(45deg, rgba( 255, 255, 255, 0.2 ), rgba( 255, 255, 255, 0.4 ) );
+    border: 2px solid rgba( 255, 255, 255, 0.8 );
+    padding: 15px 30px;
+    box-shadow: 0 0 4px rgba(0,0,0,0.3);
+    margin-top: 2px;
+}
+
+.wpo_login_form.wpo_designed.wpo_frontend_form .wpo_row_label {
+    display: none;
+}
+
+.wpo_login_form.wpo_designed.wpo_frontend_form .wpo_row_field {
+    position: relative;
+}
+
+.wpo_login_form.wpo_designed.wpo_frontend_form .lost_password {
+    text-align: center;
+    font-size: 12px;
+}
+
+.wpo_login_form.wpo_designed.wpo_frontend_form label[for="rememberme"] {
+    float:left;
+    margin: 0 0 10px 0;
+    display: block;
+}
+
+.wpo_login_form.wpo_designed.wpo_frontend_form input[type="submit"] {
+    float:left;
+    width:100%;
+}
+
+.wpo_login_form.wpo_designed.wpo_frontend_form input::-webkit-input-placeholder {
+    text-transform: uppercase;
+    text-overflow: ellipsis;
+    visibility: visible;
+    opacity: 1;
+    transition: opacity 0.3s ease;
+}
+.wpo_login_form.wpo_designed.wpo_frontend_form input:focus::-webkit-input-placeholder {
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+.wpo_login_form.wpo_designed.wpo_frontend_form input::-moz-placeholder {
+    text-transform: uppercase;
+    text-overflow: ellipsis;
+    visibility: visible;
+    opacity: 1;
+    transition: opacity 0.3s ease;
+}
+.wpo_login_form.wpo_designed.wpo_frontend_form input:focus::-moz-placeholder {
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+.wpo_login_form.wpo_designed.wpo_frontend_form input:-moz-placeholder {
+    text-transform: uppercase;
+    text-overflow: ellipsis;
+    visibility: visible;
+    opacity: 1;
+    transition: opacity 0.3s ease;
+}
+.wpo_login_form.wpo_designed.wpo_frontend_form input:focus:-moz-placeholder {
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+.wpo_login_form.wpo_designed.wpo_frontend_form input:-ms-input-placeholder {
+    text-transform: uppercase;
+    text-overflow: ellipsis;
+    visibility: visible;
+    opacity: 1;
+    transition: opacity 0.3s ease;
+}
+.wpo_login_form.wpo_designed.wpo_frontend_form input:focus:-ms-input-placeholder {
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+.wpo_login_form.wpo_designed.wpo_frontend_form input::-ms-input-placeholder {
+    text-transform: uppercase;
+    text-overflow: ellipsis;
+    visibility: visible;
+    opacity: 1;
+    transition: opacity 0.3s ease;
+}
+.wpo_login_form.wpo_designed.wpo_frontend_form input:focus::-ms-input-placeholder {
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.wpo_login_form.wpo_frontend_form .username-icon,
+.wpo_login_form.wpo_frontend_form .password-icon {
+    display: none;
+}
+
+.wpo_login_form.wpo_designed.wpo_frontend_form .username-icon,
+.wpo_login_form.wpo_designed.wpo_frontend_form .password-icon {
+    right:10px;
+    top:calc( 50% - 12px );
+    font-size: 24px;
+    display: block;
+    position: absolute;
+    z-index:2;
+}
+
+.wpo_login_form.wpo_designed.wpo_frontend_form #username,
+.wpo_login_form.wpo_designed.wpo_frontend_form #password {
+    padding-right: 34px;
+}
+
+.wpo_login_form.wpo_frontend_form .wpo_error {
+    padding:5px 10px;
+    border-left:2px solid #f5aca6;
+    margin-bottom: 20px;
+    font-size:14px;
+    box-shadow:  0 1px 1px rgba(0,0,0,0.1);
+    float:left;
+    width:100%;
+}
+
+.wpo_login_form.wpo_frontend_form .wpo_notice {
+    padding:5px 10px;
+    border-left:2px solid #cfe8f5;
+    margin-bottom: 20px;
+    font-size:14px;
+    box-shadow:  0 1px 1px rgba(0,0,0,0.1);
+    float:left;
+    width:100%;
+}
+.wpo_login_form .wpo_login_button {
+    float: right;
+}

@@ -1,0 +1,63 @@
+.wpo_switch_button {
+    float:left;
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border: 1px solid #aaaaaa;
+    border-radius: 3px;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.wpo_switch_button_value {
+    float:left;
+    width: 50px;
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border-right: 1px solid #aaaaaa;
+    position: relative;
+}
+
+.wpo_switch_button_value:last-child {
+    border-right: none;
+}
+
+.wpo_switch_button_value input {
+    visibility: hidden;
+    position: absolute;
+    z-index: 1;
+}
+
+.wpo_switch_button_value label {
+    position: relative;
+    z-index: 2;
+    display: block;
+    float: left;
+    width: 100%;
+    text-align: center;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    margin: 0;
+    padding: 3px 0;
+    background: #f1f1f1;
+    font-size: 10px;
+    line-height: 1;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.wpo_switch_button_value input:checked ~ label {
+    background: #005fb3;
+    color: #ffffff;
+    font-weight: bold;
+}

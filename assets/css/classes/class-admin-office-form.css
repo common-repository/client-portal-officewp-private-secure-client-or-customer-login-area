@@ -1,0 +1,146 @@
+.wpo_admin_form {
+    display: inline-block;
+    width: 80%;
+    float: left;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wpo_admin_form_inner {
+    width: 100%;
+    float:left;
+    margin:0;
+    padding:0;
+}
+
+.wpo_admin_form_inner > table {
+    border-spacing: 2px 10px;
+    float: left;
+    width: 100%;
+    table-layout: fixed;
+    margin: 0;
+    padding:0;
+}
+
+.wpo_admin_form_inner > table tr {
+    vertical-align: top;
+}
+
+.wpo_admin_form_inner > table tr > th {
+    text-align: left;
+    width: 30%;
+}
+
+.wpo_admin_form_inner > table tr > th,
+.wpo_admin_form_inner > table tbody td  {
+    padding: 10px 0 10px 0;
+}
+
+.wpo_settings_layer .wpo_admin_form_inner > table tr > th {
+    text-align: left;
+    width: 40%;
+}
+
+.wpo_admin_form td input[type="text"] {
+    width: 50%;
+}
+
+.wpo_admin_form_inner > table, .wpo_admin_form_inner > table tr,
+.wpo_admin_form_inner > table td, .wpo_admin_form_inner > table th {
+    border: 0;
+}
+
+.wpo_admin_form_description {
+    float: left;
+    width: 100%;
+    margin: 0 0 15px 0;
+    padding: 0;
+}
+
+#wpo_member_profile_form {
+    width: 100%;
+}
+
+input[type="text"].wpo_validation_error_field,
+input[type="password"].wpo_validation_error_field,
+input[type="email"].wpo_validation_error_field,
+select.wpo_validation_error_field,
+textarea.wpo_validation_error_field {
+    border-color: #E56060;
+    box-shadow: inset 0 1px 2px rgba( 229, 96, 96, 0.07 );
+}
+
+.wpo_validation_error {
+    position: absolute;
+    /*border-width: 1px;*/
+    /*border-style: solid;*/
+    /*border-color: #00063f;*/
+    /*border-left: 2px solid #FF0000;*/
+    padding: 5px;
+    margin-left: 5px;
+    /*background-color: rgba( 0, 0, 0, 0.7 );*/
+    color: #ED3434;
+    z-index: 99999999;
+}
+
+.wpo_validation_wrapper {
+    display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+    -ms-flex-align: center;
+	-webkit-align-items: center;
+	-webkit-box-align: center;
+
+	align-items: center;
+}
+
+.wpo_validation_wrapper:after {
+    content: "\f534";
+    font: 400 20px/1 dashicons;
+    color: #dc3232;
+    margin-left: -25px;
+    vertical-align: middle;
+}
+
+@media (max-width: 782px) {
+    .wpo_admin_form {
+        width: 100%;
+    }
+
+    .wpo_admin_form_inner > table tbody {
+        display: block;
+        float: left;
+        width: 100%;
+        margin: 0;
+        padding:0;
+    }
+
+    .wpo_admin_form_inner > table tbody tr {
+        display: block;
+        float: left;
+        width: 100%;
+        margin: 0 0 20px 0;
+        padding:0;
+    }
+    .wpo_admin_form_inner > table tbody th,
+    .wpo_admin_form_inner > table tbody td {
+        display: block;
+        float: left;
+        width: 100%;
+        margin: 0 0 10px 0;
+        padding:0;
+    }
+
+    .wpo_admin_form_inner > table tbody td input[type="text"],
+    .wpo_admin_form_inner > table tbody td input[type="password"],
+    .wpo_admin_form_inner > table tbody td input[type="email"],
+    .wpo_admin_form_inner > table tbody td textarea,
+    .wpo_admin_form_inner > table tbody td select {
+        width: 100% !important;
+    }
+
+    .wpo_admin_form_inner > table tbody th > label:after {
+        content: ':';
+    }
+}
